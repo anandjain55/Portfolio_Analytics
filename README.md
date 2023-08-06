@@ -1,4 +1,4 @@
-# ANand's Analytics Portfolio
+Anand's Analytics Portfolio
 # Project - 1 Sales Dashboard and Datawarehouse with Product and Customer Hierarchy Levels (https://github.com/anandjain55/DWH_SSIS_PowerBI_VertriebReport)
 * This is the project I did during my internship which includes first importing data into SQL Server using SSIS.
 1. Staging Area of Datawarehouse has been created using SSIS and then all raw data has been imported to SQL Server.
