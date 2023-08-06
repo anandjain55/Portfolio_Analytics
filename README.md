@@ -28,3 +28,18 @@ Die Vorgehensweise während des Projekts ist wie folgt:
 
 Übersicht der Kundenhierarchie-Ebene 
 ![](Kundenhierarchie.jpg)
+
+
+
+
+# Projekt 2 - Hotel Revenue Dashboard (https://github.com/anandjain55/SQL_Power-BI_Hotel-Revenue_Dashboard)
+Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Es beinhaltet zunächst die Verarbeitung von Daten in SQL und dann den Import dieser Daten in Power BI.
+
+* Die Daten stammen aus echten Unternehmensdaten.
+* Verwendete Tools - SQL Server Management Studio und Power BI Desktop.
+* Kenntnisse - Sql Server und Power BI
+
+Überblick über das Executive Dashboard
+![](Executive-Dashboard.jpg)
+
+
