@@ -40,6 +40,6 @@ Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Es beinh
 * Kenntnisse - Sql Server und Power BI
 
 Überblick über das Executive Dashboard
-![](Executive-Dashboard.jpg)
+![](Hotel Revenue Dashboard.jpg)
 
 
