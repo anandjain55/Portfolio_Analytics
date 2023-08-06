@@ -10,6 +10,3 @@
 * Data is from real company data
 * Tools used - Sql Server management Studio, Visual Studio and Power BI Desktop.
 * Skills - Sql Server Integration Services, Sql Server and Power BI
-
-
-Project 2 -
