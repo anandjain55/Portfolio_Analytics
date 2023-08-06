@@ -48,6 +48,7 @@ Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei we
 Die Daten stammen aus echten Unternehmensdaten.
 Verwendete Tools - Power Pivot 
 Kenntnisse - Excel
-Überblick über das Executive Dashboard ![](HR Data Analytics Dashboard.jpg)
+Überblick über das Executive Dashboard 
+![](HR Data Analytics Dashboard.jpg)
 
 
