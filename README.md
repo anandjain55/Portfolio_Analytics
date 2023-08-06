@@ -33,7 +33,7 @@ Die Vorgehensweise während des Projekts ist wie folgt:
 
 
 # Projekt 2 - Hotel Revenue Dashboard (https://github.com/anandjain55/SQL_Power-BI_Hotel-Revenue_Dashboard)
-Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Es beinhaltet zunächst die Verarbeitung von Daten in SQL und dann den Import dieser Daten in Power BI.
+Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Die Daten werden zunächst in SQL Server verarbeitet und dann in Power BI importiert und ein Dashboard erstellt.
 
 * Die Daten stammen aus echten Unternehmensdaten.
 * Verwendete Tools - SQL Server Management Studio und Power BI Desktop.
@@ -41,5 +41,13 @@ Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Es beinh
 
 Überblick über das Executive Dashboard
 ![](Hotel Revenue Dashboard.jpg)
+
+# Projekt 3 - HR Data Analytics ([https://github.com/anandjain55/SQL_Power-BI_Hotel-Revenue_Dashboard](https://github.com/anandjain55/Excel_HR_Analytics_Dashboard))
+Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
+
+Die Daten stammen aus echten Unternehmensdaten.
+Verwendete Tools - Power Pivot 
+Kenntnisse - Excel
+Überblick über das Executive Dashboard ![](HR Data Analytics Dashboard.jpg)
 
 
