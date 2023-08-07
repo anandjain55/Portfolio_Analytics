@@ -62,7 +62,11 @@ Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das D
 Verwendete Tools - Power BI Desktop
 Kenntnisse - Power BI, Power query, DAX
 
-Überblick über das Executive Dashboard ![](Persönliche Finanzen Tracker Dashboard Photo)
+Überblick über das Executive Dashboard ![](Persönliche Finanzen Tracker Dashboard Photo/Persönliche Finanzen Tracker Dashboard.jpg)
+![](Persönliche Finanzen Tracker Dashboard Photo/Tooltip 1.jpg)
+![](Persönliche Finanzen Tracker Dashboard Photo/Tooltip 2.jpg)
+![](Persönliche Finanzen Tracker Dashboard Photo/Tooltip 3.jpg)
+![](Persönliche Finanzen Tracker Dashboard Photo/Tooltip 4.jpg)
 
 
 # Projekt 5 - Globale Supertstore_2016 Umsatz-Dashboard (https://github.com/anandjain55/Globale-Supertstore_2016-Umsatz-Dashboard)
