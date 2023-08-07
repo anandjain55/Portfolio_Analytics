@@ -42,7 +42,7 @@ Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Die Date
 Überblick über das Executive Dashboard
 ![](Hotel Revenue Dashboard.jpg)
 
-# Projekt 3 - HR Data Analytics ([https://github.com/anandjain55/SQL_Power-BI_Hotel-Revenue_Dashboard](https://github.com/anandjain55/Excel_HR_Analytics_Dashboard))
+# Projekt 4 - HR Data Analytics Dashboard (https://github.com/anandjain55/Excel_HR_Analytics_Dashboard)
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
 
 Die Daten stammen aus echten Unternehmensdaten.
@@ -50,5 +50,20 @@ Verwendete Tools - Power Pivot
 Kenntnisse - Excel
 Überblick über das Executive Dashboard 
 ![](HR Data Analytics Dashboard.jpg)
+
+
+# Projekt 4 - Personal Finance Tracker Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
+Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das Dashboard ebenfalls in Power BI erstellt.
+
+* Fragen, die während dieses Projekts beantwortet werden, sind:
+1. Gebe ich aus, was ich verdiene, oder spare ich, was ich verdiene?
+2. Wo / Wie gebe ich aus?
+3. Wo / Wie spare ich?
+4. Detaillierte Erklärung
+Verwendete Tools - Power BI Desktop
+Kenntnisse - Power BI, Power query, DAX
+
+Überblick über das Executive Dashboard ![](Persönliche Finanzen Tracker Dashboard Photo)
+
 
 
