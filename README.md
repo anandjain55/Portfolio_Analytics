@@ -1,6 +1,6 @@
 # Anand's Analytics Portfolio
 
-# Projekt 1 - Sales Dashboard und Datawarehouse mit Produkt- und Kundenhierarchieebenen (https://github.com/anandjain55/Sales-Dashboard)
+## Projekt 1 - Sales Dashboard und Datawarehouse mit Produkt- und Kundenhierarchieebenen (https://github.com/anandjain55/Sales-Dashboard)
 * Dies ist das Projekt, das ich während meines Praktikums durchgeführt habe. Es beinhaltet zunächst den Import von Daten in SQL Server mit Hilfe von SSIS.
 Die Vorgehensweise während des Projekts ist wie folgt:
 1. Der Staging-Bereich von Datawarehouse wurde mit SSIS erstellt und dann wurden alle Rohdaten in SQL Server importiert.
@@ -30,7 +30,7 @@ Die Vorgehensweise während des Projekts ist wie folgt:
 #  Übersicht der Kundenhierarchie-Ebene 
 ![](Kundenhierarchie.jpg)
 
-# Projekt 2 - Hotel Revenue Dashboard (https://github.com/anandjain55/SQL_Power-BI_Hotel-Revenue_Dashboard)
+## Projekt 2 - Hotel Revenue Dashboard (https://github.com/anandjain55/SQL_Power-BI_Hotel-Revenue_Dashboard)
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Die Daten werden zunächst in SQL Server verarbeitet und dann in Power BI importiert und ein Dashboard erstellt.
 
 * Die Daten stammen aus echten Unternehmensdaten.
@@ -41,7 +41,7 @@ Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Die Date
 ![](Hotel Revenue Dashboard.jpg)
 
 
-# Projekt 3 - HR Data Analytics Dashboard (https://github.com/anandjain55/Excel_HR_Analytics_Dashboard)
+## Projekt 3 - HR Data Analytics Dashboard (https://github.com/anandjain55/Excel_HR_Analytics_Dashboard)
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
 
 Die Daten stammen aus echten Unternehmensdaten.
@@ -52,7 +52,7 @@ Kenntnisse - Excel
 ![](HR Data Analytics Dashboard.jpg)
 
 
-# Projekt 4 - Personliche-Finanzen-Tracker-Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
+## Projekt 4 - Personliche-Finanzen-Tracker-Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
 Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das Dashboard ebenfalls in Power BI erstellt.
 
 * Fragen, die während dieses Projekts beantwortet werden, sind:
@@ -71,17 +71,17 @@ Kenntnisse - Power BI, Power query, DAX
 ![](Persönliche Finanzen Tracker Dashboard Photo/Tooltip 4.jpg)
 
 
-# Projekt 5 - Globale Supertstore_2016 Umsatz-Dashboard (https://github.com/anandjain55/Globale-Supertstore_2016-Umsatz-Dashboard)
+## Projekt 5 - Globale Supertstore_2016 Umsatz-Dashboard (https://github.com/anandjain55/Globale-Supertstore_2016-Umsatz-Dashboard)
 Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das Dashboard ebenfalls in Power BI erstellt.
 Verwendete Tools - Power BI Desktop
 Kenntnisse - Power BI, Power query, DAX
 
-#  Überblick über das Executive Dashboard 
+## Überblick über das Executive Dashboard 
 ![](Globale Supertstore_2016 Umsatz-Dashboard.jpg)
 
 
 
-# Projekt 6 - Dashboard der AdventureWorks Bike Company (https://github.com/anandjain55/AdventureWorks-Bike-Company-Report)
+## Projekt 6 - Dashboard der AdventureWorks Bike Company (https://github.com/anandjain55/AdventureWorks-Bike-Company-Report)
 
 # Geschäftsproblem -
 Sie wurden gerade von AdventureWorks, einem fiktiven globalen Produktionsunternehmen, das Fahrradausrüstung und -zubehör herstellt, als Business-Intelligence-Analyst eingestellt. Und Ihre Aufgabe besteht darin, dem Managementteam dabei zu helfen, seine KPIs wie Umsatz, Umsatz, Gewinn und Rendite zu verfolgen, die Leistung über Regionen hinweg zu vergleichen, Trends auf Produktebene zu analysieren und hochwertige Kunden zu identifizieren.
@@ -116,7 +116,7 @@ Wir können KPIs (Umsatz, Umsatz, Gewinn, Rendite) verfolgen, die regionale Leis
 ![](Bilder des AdventureWorks Bike Company-Berichts/Karte der AdventureWorks Bike Company.jpg)
 
 #  Übersicht über den Tooltip für die Kategorie
-![](Bilder des AdventureWorks Bike Company-Berichts/Tooltip zur Kategorie „AdventureWorks Bike Company“..jpg)
+![](Bilder des AdventureWorks Bike Company-Berichts/Tooltip zur Kategorie AdventureWorks Bike Company.jpg)
 
 #  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen)
 ![](Bilder des AdventureWorks Bike Company-Berichts/Benutzerdefiniertes Visual von AdventureWorks Bike Company (animiertes Barrennen).jpg)
