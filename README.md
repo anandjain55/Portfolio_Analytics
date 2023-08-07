@@ -41,7 +41,7 @@ Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Die Date
 ![](Hotel Revenue Dashboard.jpg)
 
 
-# Projekt 3 - HR Data Analytics Dashboard (https://github.com/anandjain55/Excel_HR_Analytics_Dashboard)
+# Projekt 3 - HR Data Analytics Dashboard (HR_Data_Analytics-Dashboard.jpg)
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
 
 Die Daten stammen aus echten Unternehmensdaten.
