@@ -121,6 +121,6 @@ Wir können KPIs (Umsatz, Umsatz, Gewinn, Rendite) verfolgen, die regionale Leis
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Tooltip_zur_Kategorie_AdventureWorks_Bike_Company.jpg)
 
 ##  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen)
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Visual_von_AdventureWorks_Bike_Company_(animiertes Barrennen).jpg)
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Visual_von_AdventureWorks_Bike_Company_(animiertes_Barrennen).jpg)
 
 
