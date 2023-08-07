@@ -51,7 +51,7 @@ Kenntnisse - Excel
 Überblick über das Executive Dashboard ![](HR Data Analytics Dashboard.jpg)
 
 
-# Projekt 4 - Personal Finance Tracker Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
+# Projekt 4 - Personliche-Finanzen-Tracker-Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
 Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das Dashboard ebenfalls in Power BI erstellt.
 
 * Fragen, die während dieses Projekts beantwortet werden, sind:
