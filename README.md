@@ -64,11 +64,13 @@ Verwendete Tools - Power BI Desktop
 Kenntnisse - Power BI, Power query, DAX
 
 ##  Überblick über das Executive Dashboard 
-![](Persönliche Finanzen Tracker Dashboard Photo/Persönliche_Finanzen_Tracker_Dashboard.jpg), 
-![](Persönliche Finanzen Tracker Dashboard Photo/Tooltip-1.jpg),
-![](Persönliche Finanzen Tracker Dashboard Photo/Tooltip-2.jpg),
-![](Persönliche Finanzen Tracker Dashboard Photo/Tooltip-3.jpg),
-![](Persönliche Finanzen Tracker Dashboard Photo/Tooltip-4.jpg)
+![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Persönliche_Finanzen_Tracker_Dashboard.jpg)
+
+# Tooltips
+![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-1.jpg),
+![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-2.jpg),
+![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-3.jpg),
+![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-4.jpg)
 
 
 # Projekt 5 - Globale Supertstore_2016 Umsatz-Dashboard (https://github.com/anandjain55/Globale-Supertstore_2016-Umsatz-Dashboard)
@@ -104,21 +106,21 @@ Wir können KPIs (Umsatz, Umsatz, Gewinn, Rendite) verfolgen, die regionale Leis
 
 
 ##  Überblick über das Executive Dashboard
-![](Bilder des AdventureWorks Bike Company-Berichts/Executive_Dashboard_der_AdventureWorks_Bike_Company.jpg)
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Executive_Dashboard_der_AdventureWorks_Bike_Company.jpg)
 
 ##  Übersicht der Produktdetails
-![](Bilder des AdventureWorks Bike Company-Berichts/Produktdetails_der_AdventureWorks_Bike_Company.jpg)
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Produktdetails_der_AdventureWorks_Bike_Company.jpg)
 
 ##  Übersicht der Kundendaten
-![](Bilder des AdventureWorks Bike Company-Berichts/Kundendetails_der_AdventureWorks_Bike_Company.jpg)
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kundendetails_der_AdventureWorks_Bike_Company.jpg)
 
 ##  Übersicht über die Kartenansicht
-![](Bilder des AdventureWorks Bike Company-Berichts/Karte_der_AdventureWorks_Bike_Company.jpg)
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Karte_der_AdventureWorks_Bike_Company.jpg)
 
 ##  Übersicht über den Tooltip für die Kategorie
-![](Bilder des AdventureWorks Bike Company-Berichts/Tooltip_zur_Kategorie_AdventureWorks_Bike_Company.jpg)
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Tooltip_zur_Kategorie_AdventureWorks_Bike_Company.jpg)
 
 ##  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen)
-![](Bilder des AdventureWorks Bike Company-Berichts/Benutzerdefiniertes_Visual_von_AdventureWorks_Bike_Company_(animiertes Barrennen).jpg)
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Visual_von_AdventureWorks_Bike_Company_(animiertes Barrennen).jpg)
 
 
