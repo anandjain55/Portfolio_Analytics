@@ -15,13 +15,13 @@ Die Vorgehensweise während des Projekts ist wie folgt:
 #  Überblick über das Executive Dashboard
 ![](Executive-Dashboard.jpg)
 
-#  Übersicht über das Produkt-Dashboard
+#  Übersicht der Produktdetails
 ![](Produkt-Dashboard.jpg)
 
-#  Übersicht über das Kunden Dashboard 
+#  Übersicht über die Kundendaten
 ![](Kunden-Dashboard.jpg)
 
-#  Übersicht über die Kartenebene 
+#  Kartenansicht
 ![](Karte.jpg)
 
 #  Übersicht der Produkthierarchie-Ebene 
@@ -41,7 +41,7 @@ Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Die Date
 ![](Hotel Revenue Dashboard.jpg)
 
 
-# Projekt 4 - HR Data Analytics Dashboard (https://github.com/anandjain55/Excel_HR_Analytics_Dashboard)
+# Projekt 3 - HR Data Analytics Dashboard (https://github.com/anandjain55/Excel_HR_Analytics_Dashboard)
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
 
 Die Daten stammen aus echten Unternehmensdaten.
