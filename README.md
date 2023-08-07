@@ -30,29 +30,7 @@ Die Vorgehensweise während des Projekts ist wie folgt:
 #  Übersicht der Kundenhierarchie-Ebene 
 ![](Kundenhierarchie.jpg)
 
-# Projekt 2 - Hotel Revenue Dashboard (https://github.com/anandjain55/SQL_Power-BI_Hotel-Revenue_Dashboard)
-Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Die Daten werden zunächst in SQL Server verarbeitet und dann in Power BI importiert und ein Dashboard erstellt.
-
-* Die Daten stammen aus echten Unternehmensdaten.
-* Verwendete Tools - SQL Server Management Studio und Power BI Desktop.
-* Kenntnisse - Sql Server und Power BI
-
-##  Überblick über das Executive Dashboard
-![](Hotel_Revenue-Dashboard.jpg)
-
-
-# Projekt 3 - HR Data Analytics Dashboard (HR_Data_Analytics-Dashboard.jpg)
-Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
-
-Die Daten stammen aus echten Unternehmensdaten.
-Verwendete Tools - Power Pivot 
-Kenntnisse - Excel
-
-##  Überblick über das Executive Dashboard 
-![](HR_Data_Analytics-Dashboard.jpg)
-
-
-# Projekt 4 - Personliche-Finanzen-Tracker-Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
+# Projekt 2 - Personliche-Finanzen-Tracker-Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
 Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das Dashboard ebenfalls in Power BI erstellt.
 
 * Fragen, die während dieses Projekts beantwortet werden, sind:
@@ -61,7 +39,7 @@ Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das D
 3. Wo / Wie spare ich?
 4. Detaillierte Erklärung
 Verwendete Tools - Power BI Desktop
-Kenntnisse - Power BI, Power query, DAX
+# Kenntnisse - Power BI, Power query, DAX
 
 ##  Überblick über das Executive Dashboard 
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Persönliche_Finanzen_Tracker_Dashboard.jpg)
@@ -73,17 +51,7 @@ Kenntnisse - Power BI, Power query, DAX
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-4.jpg)
 
 
-# Projekt 5 - Globale Supertstore_2016 Umsatz-Dashboard (https://github.com/anandjain55/Globale-Supertstore_2016-Umsatz-Dashboard)
-Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das Dashboard ebenfalls in Power BI erstellt.
-Verwendete Tools - Power BI Desktop
-Kenntnisse - Power BI, Power query, DAX
-
-## Überblick über das Executive Dashboard 
-![](Globale_Supertstore_2016_Umsatz-Dashboard.jpg)
-
-
-
-# Projekt 6 - Dashboard der AdventureWorks Bike Company (https://github.com/anandjain55/AdventureWorks-Bike-Company-Report)
+# Projekt 3 - AdventureWorks Bike-Bericht (https://github.com/anandjain55/AdventureWorks-Bike-Company-Report)
 
 ## Geschäftsproblem :
 Sie wurden gerade von AdventureWorks, einem fiktiven globalen Produktionsunternehmen, das Fahrradausrüstung und -zubehör herstellt, als Business-Intelligence-Analyst eingestellt. Und Ihre Aufgabe besteht darin, dem Managementteam dabei zu helfen, seine KPIs wie Umsatz, Umsatz, Gewinn und Rendite zu verfolgen, die Leistung über Regionen hinweg zu vergleichen, Trends auf Produktebene zu analysieren und hochwertige Kunden zu identifizieren.
@@ -122,5 +90,37 @@ Wir können KPIs (Umsatz, Umsatz, Gewinn, Rendite) verfolgen, die regionale Leis
 
 ##  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen)
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Visual_von_AdventureWorks_Bike_Company_(animiertes_Barrennen).jpg)
+
+
+# Projekt 4 - HR Data Analytics Dashboard ([HR_Data_Analytics-Dashboard.jpg](https://github.com/anandjain55/Excel_HR_Analytics_Dashboard))
+Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
+
+Die Daten stammen aus echten Unternehmensdaten.
+Verwendete Tools - Power Pivot 
+Kenntnisse - Excel
+
+##  Überblick über das Executive Dashboard 
+![](HR_Data_Analytics-Dashboard.jpg)
+
+
+# Projekt 5 - Hotel Revenue Dashboard (https://github.com/anandjain55/SQL_Power-BI_Hotel-Revenue_Dashboard)
+Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Die Daten werden zunächst in SQL Server verarbeitet und dann in Power BI importiert und ein Dashboard erstellt.
+
+* Die Daten stammen aus echten Unternehmensdaten.
+* Verwendete Tools - SQL Server Management Studio und Power BI Desktop.
+# Kenntnisse - Sql Server und Power BI
+
+##  Überblick über das Executive Dashboard
+![](Hotel_Revenue-Dashboard.jpg)
+
+
+# Projekt 5 - Globale Supertstore_2016 Umsatz-Dashboard (https://github.com/anandjain55/Globale-Supertstore_2016-Umsatz-Dashboard)
+Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das Dashboard ebenfalls in Power BI erstellt.
+Verwendete Tools - Power BI Desktop
+Kenntnisse - Power BI, Power query, DAX
+
+## Überblick über das Executive Dashboard 
+![](Globale_Supertstore_2016_Umsatz-Dashboard.jpg)
+
 
 
