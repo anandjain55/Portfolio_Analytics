@@ -49,7 +49,7 @@ Verwendete Tools - Power Pivot
 Kenntnisse - Excel
 
 ##  Überblick über das Executive Dashboard 
-![](HR Data Analytics Dashboard.jpg)
+![](HR_Data_Analytics-Dashboard.jpg)
 
 
 # Projekt 4 - Personliche-Finanzen-Tracker-Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
