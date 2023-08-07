@@ -76,22 +76,22 @@ Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das D
 Verwendete Tools - Power BI Desktop
 Kenntnisse - Power BI, Power query, DAX
 
-## Überblick über das Executive Dashboard 
+# Überblick über das Executive Dashboard 
 ![](Globale Supertstore_2016 Umsatz-Dashboard.jpg)
 
 
 
 ## Projekt 6 - Dashboard der AdventureWorks Bike Company (https://github.com/anandjain55/AdventureWorks-Bike-Company-Report)
 
-# Geschäftsproblem -
+# Geschäftsproblem :
 Sie wurden gerade von AdventureWorks, einem fiktiven globalen Produktionsunternehmen, das Fahrradausrüstung und -zubehör herstellt, als Business-Intelligence-Analyst eingestellt. Und Ihre Aufgabe besteht darin, dem Managementteam dabei zu helfen, seine KPIs wie Umsatz, Umsatz, Gewinn und Rendite zu verfolgen, die Leistung über Regionen hinweg zu vergleichen, Trends auf Produktebene zu analysieren und hochwertige Kunden zu identifizieren.
 
 Aber alles, was Sie erhalten haben, ist ein Ordner mit CSV-Rohdateien, die Informationen zu Transaktions- und Retourendatensätzen, Produkten, Kunden und Vertriebsgebieten enthalten.
 
-# Ziel erreicht -
+# Ziel erreicht :
 Verwendete den Power BI-Desktop, um diese Rohdaten zu verbinden und zu transformieren, erstellte ein relationales Datenmodell, erstellte berechnete Spalten und Kennzahlen mit DAX und entwarf schließlich ein interaktives Dashboard, um die Visualisierung und Analyse dieser Daten zu unterstützen.
 
-# Wichtige Schritte, die im Projekt (Verfahren) erreicht wurden
+# Wichtige Schritte, die im Projekt (Verfahren) erreicht wurden :
 1. Erstellen Sie die Executive Summary-Ansicht, die allgemeine KPIs (Umsatz, Gewinn, Bestellungen, Rücklaufquote), ein wöchentliches Umsatztrenddiagramm, coole interaktive Elemente wie Schieberegler zum Vergrößern bestimmter Zeiträume, benutzerdefinierte Tooltipps und einen vollständig benutzerdefinierten Filterbereich enthält .
 2. Sie können einen Drilldown zu einem bestimmten Produkt durchführen, um zur Produktdetailansicht zu gelangen. Dadurch werden Dinge wie die Leistung eines Produkts im Vergleich zu seinem monatlichen Bestell-, Umsatz- oder Gewinnziel angezeigt.
 3. Ich habe Dinge wie Parameter für die Was-wäre-wenn-Analyse verwendet. Wie verändert sich in diesem Fall der Preis und wirkt sich dies auf eine Kennzahl wie den Gesamtgewinn aus?
@@ -99,7 +99,7 @@ Verwendete den Power BI-Desktop, um diese Rohdaten zu verbinden und zu transform
 5. Ich habe mir die Kartierungs- und Geodatentools von Power BI genauer angesehen und auch eine Ansicht auf Kundenebene erstellt, um die Leistung auf der Ebene einzelner Kunden genauer zu untersuchen und verschiedene Kundenprofile und -segmente aufzuschlüsseln.
 6. Dieser gesamte Bericht wurde komplett von Grund auf neu erstellt und enthält lediglich einen Ordner mit rohen CSV-Dateien.
 
-# Ergebnis und Schlussfolgerung -
+# Ergebnis und Schlussfolgerung :
 Wir können KPIs (Umsatz, Umsatz, Gewinn, Rendite) verfolgen, die regionale Leistung vergleichen, Trends auf Produktebene und hochwertige Kunden analysieren.
 
 
