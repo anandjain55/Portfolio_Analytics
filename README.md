@@ -151,23 +151,38 @@ MS Excel
 Power Pivot, Datavisualisierung.
 
 ###  Überblick über das Executive Dashboard :
-![](HR_Data_Analytics-Dashboard.jpg)
+![](Historische_Hoteldaten-Dashboard.jpg)
 
 
 
-# Projekt 5 - Hotel Revenue Dashboard (https://github.com/anandjain55/SQL_Power-BI_Hotel-Revenue_Dashboard) 
-Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Die Daten werden zunächst in SQL Server verarbeitet und dann in Power BI importiert und ein Dashboard erstellt.
+# Projekt 5 - Analyse historischer Hoteldaten (https://github.com/anandjain55/Analyse-historischer-Hoteldaten) 
 
-* Die Daten stammen aus echten Unternehmensdaten.
+## Geschäftsproblem :
+Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren. Das Dashboard sollte die Trends der Einnahmen, der durchschnittlichen Tagespreise pro Nacht, der durchschnittlichen Rabatte und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
+
+## Datenquelle:
+Historische Hoteldaten von 2018-2020.
+
+## Key Insights abgeleitet :
+1.	Der Hotelumsatz steigt von 2018 bis 2020. Der höchste Umsatz ist im Jahr 2019 zwischen 2018-2020 und sein Wert ist 26,63 Mio. $ für beide Hotels und alle Länder. Unter beiden Hotels ist der Wert 2019 für Stadthotels ebenfalls am höchsten und beträgt 7,19 Mio. $ für alle Länder.
+2.	Da der Prozentsatz der Parkplätze stagniert, haben wir nicht viele Anhaltspunkte, um zu entscheiden, ob wir einen Parkplatz bauen sollten oder nicht.
+3.	Der adr steigt von 2018- 2020 . Der höchste durchschnittliche Tagessatz ist im Jahr 2019 zwischen 2018 und 2020 und sein Wert beträgt 119,86 Millionen Dollar für beide Hotels und alle Länder. Bei beiden Hotels ist der durchschnittliche Tagessatz auch im Jahr 2020 für das Stadthotel am höchsten und hat einen Wert von 123,02 Mio. $ für alle Länder.
+
+## Die wichtigsten Schritte im Projekt :
+1. Aufbau einer Datenbank 
+2. Analysieren und Abrufen von Daten mit SQL (Entwicklung einer SQL-Abfrage) 
+3. Power BI mit einer Datenbank verbinden 
+4. Daten in Power BI visualisieren
+5. Unsere Ergebnisse zusammenfassen
 
 ## Verwendete technische Tools : 
-Sql Server Management Studio, Power BI Desktop, 
+Sql Server Management Studio, Power BI Desktop.
 
 ## Verwendete Techniken / Fertigkeiten / Software :
-Sql Server und Power BI, Datenvisualisierung, DAX.
+Sql Server, Power BI, Datenvisualisierung, DAX, Power Query.
 
 ### Überblick über das Executive Dashboard :
-![](Hotel_Revenue-Dashboard.jpg)
+![](Historische_Hoteldaten-Dashboard.jpg)
 
 
 
