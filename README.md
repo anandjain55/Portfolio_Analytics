@@ -1,5 +1,5 @@
 # Anand's Analytics Portfolio
-	Technical tools and Techniques used - Excel, Power BI, DAX, Data visualisation. 
+
 # Projekt 1 - Sales Dashboard und Datawarehouse mit Produkt- und Kundenhierarchieebenen (https://github.com/anandjain55/Sales-Dashboard)
 * Dies ist das Projekt, das ich während meines Praktikums durchgeführt habe. Es beinhaltet zunächst den Import von Daten in SQL Server mit Hilfe von SSIS.
 Die Vorgehensweise während des Projekts ist wie folgt:
@@ -31,19 +31,18 @@ Die Vorgehensweise während des Projekts ist wie folgt:
 ![](Kundenhierarchie.jpg)
 
 # Projekt 2 - Personliche-Finanzen-Tracker-Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
-##  Geschäftsproblem und -kontext
+## Geschäftsproblem und -kontext
 Erstellung eines persönlichen Finanz-Trackers, der bei der Verwaltung und Kontrolle der finanziellen Ausgaben hilft. Der Zweck dieses Projekts ist es, schon in jungen Jahren Finanzwissen zu vermitteln und Analysen in das tägliche Leben einzubinden.
 
-##  Datenquelle - Die Rohdaten der durchschnittlichen Ausgaben des Jahres 2022 aus Indien wurden in Excel erstellt.
+## Datenquelle - Die Rohdaten der durchschnittlichen Ausgaben des Jahres 2022 aus Indien wurden in Excel erstellt.
  Vorgehensweise - Die Rohdaten wurden in Excel erstellt und dann in Power BI importiert. ETL wurde für die Daten mit Power BI durchgeführt, und die bereinigten Daten wurden zur Erstellung eines Dashboards in Power BI verwendet.
 
-##  Abgeleitete Schlüsseleinblicke:
+## Abgeleitete Schlüsseleinblicke:
 Aus dem Bericht können wir Erkenntnisse über das Nettovermögen, die Genauigkeit des Ausgabenmusters, den Status der Sparziele, die besten und schlechtesten finanziellen Monate in Bezug auf Ausgaben und Einsparungen gewinnen.
 
 ##  Verwendete technische Tools und Techniken - Excel, Power BI, DAX, Datenvisualisierung. 
 
-
-##  Überblick über das Executive Dashboard 
+## Überblick über das Executive Dashboard 
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Persönliche_Finanzen_Tracker_Dashboard.jpg)
 
 # Tooltips![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-1.jpg),
