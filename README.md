@@ -31,21 +31,25 @@ Die Vorgehensweise während des Projekts ist wie folgt:
 ![](Kundenhierarchie.jpg)
 
 # Projekt 2 - Personliche-Finanzen-Tracker-Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
-## Geschäftsproblem und -kontext
+
+## Geschäftsproblem und kontext :
 Erstellung eines persönlichen Finanz-Trackers, der bei der Verwaltung und Kontrolle der finanziellen Ausgaben hilft. Der Zweck dieses Projekts ist es, schon in jungen Jahren Finanzwissen zu vermitteln und Analysen in das tägliche Leben einzubinden.
 
-## Datenquelle - Die Rohdaten der durchschnittlichen Ausgaben des Jahres 2022 aus Indien wurden in Excel erstellt.
- Vorgehensweise - Die Rohdaten wurden in Excel erstellt und dann in Power BI importiert. ETL wurde für die Daten mit Power BI durchgeführt, und die bereinigten Daten wurden zur Erstellung eines Dashboards in Power BI verwendet.
+## Datenquelle :
+Die Rohdaten der durchschnittlichen Ausgaben des Jahres 2022 aus Indien wurden in Excel erstellt.
+Vorgehensweise - Die Rohdaten wurden in Excel erstellt und dann in Power BI importiert. ETL wurde für die Daten mit Power BI durchgeführt, und die bereinigten Daten wurden zur Erstellung eines Dashboards in Power BI verwendet.
 
-## Abgeleitete Schlüsseleinblicke:
+## Abgeleitete Schlüsseleinblicke :
 Aus dem Bericht können wir Erkenntnisse über das Nettovermögen, die Genauigkeit des Ausgabenmusters, den Status der Sparziele, die besten und schlechtesten finanziellen Monate in Bezug auf Ausgaben und Einsparungen gewinnen.
 
-##  Verwendete technische Tools und Techniken - Excel, Power BI, DAX, Datenvisualisierung. 
+## Verwendete technische Tools und Techniken :
+Excel, Power BI, DAX, Datenvisualisierung 
 
-## Überblick über das Executive Dashboard 
+## Überblick über das Executive Dashboard :
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Persönliche_Finanzen_Tracker_Dashboard.jpg)
 
-# Tooltips![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-1.jpg),
+# Tooltips :
+![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-1.jpg),
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-2.jpg),
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-3.jpg),
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-4.jpg)
@@ -73,22 +77,22 @@ Verwendete den Power BI-Desktop, um diese Rohdaten zu verbinden und zu transform
 Wir können KPIs (Umsatz, Umsatz, Gewinn, Rendite) verfolgen, die regionale Leistung vergleichen, Trends auf Produktebene und hochwertige Kunden analysieren.
 
 
-##  Überblick über das Executive Dashboard
+##  Überblick über das Executive Dashboard :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Executive_Dashboard_der_AdventureWorks_Bike_Company.jpg)
 
-##  Übersicht der Produktdetails
+##  Übersicht der Produktdetails :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Produktdetails_der_AdventureWorks_Bike_Company.jpg)
 
-##  Übersicht der Kundendaten
+##  Übersicht der Kundendaten :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kundendetails_der_AdventureWorks_Bike_Company.jpg)
 
-##  Übersicht über die Kartenansicht
+##  Übersicht über die Kartenansicht :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Karte_der_AdventureWorks_Bike_Company.jpg)
 
-##  Übersicht über den Tooltip für die Kategorie
+##  Übersicht über den Tooltip für die Kategorie :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Tooltip_zur_Kategorie_AdventureWorks_Bike_Company.jpg)
 
-##  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen)
+##  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen) :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Visual_von_AdventureWorks_Bike_Company_(animiertes_Barrennen).jpg)
 
 
@@ -99,27 +103,27 @@ Die Daten stammen aus echten Unternehmensdaten.
 Verwendete Tools - Power Pivot 
 Kenntnisse - Excel
 
-##  Überblick über das Executive Dashboard 
+##  Überblick über das Executive Dashboard :
 ![](HR_Data_Analytics-Dashboard.jpg)
 
 
-# Projekt 5 - Hotel Revenue Dashboard (https://github.com/anandjain55/SQL_Power-BI_Hotel-Revenue_Dashboard)
+# Projekt 5 - Hotel Revenue Dashboard (https://github.com/anandjain55/SQL_Power-BI_Hotel-Revenue_Dashboard) 
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Die Daten werden zunächst in SQL Server verarbeitet und dann in Power BI importiert und ein Dashboard erstellt.
 
 * Die Daten stammen aus echten Unternehmensdaten.
-* Verwendete Tools - SQL Server Management Studio und Power BI Desktop.
-# Kenntnisse - Sql Server und Power BI
+## Verwendete technische Tools und Techniken :
+Sql Server, Power BI, SQL Server Management Studio und 
 
-##  Überblick über das Executive Dashboard
+##  Überblick über das Executive Dashboard :
 ![](Hotel_Revenue-Dashboard.jpg)
 
 
 # Projekt 5 - Globale Supertstore_2016 Umsatz-Dashboard (https://github.com/anandjain55/Globale-Supertstore_2016-Umsatz-Dashboard)
 Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das Dashboard ebenfalls in Power BI erstellt.
-Verwendete Tools - Power BI Desktop
-Kenntnisse - Power BI, Power query, DAX
+## Verwendete technische Tools und Techniken :
+Power BI, Power Query, DAX
 
-## Überblick über das Executive Dashboard 
+## Überblick über das Executive Dashboard :
 ![](Globale_Supertstore_2016_Umsatz-Dashboard.jpg)
 
 
