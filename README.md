@@ -84,7 +84,7 @@ Excel, Power BI, DAX, Datenvisualisierung.
 ### Überblick über das Executive Dashboard 
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Persönliche_Finanzen_Tracker_Dashboard.jpg)
 
-# Tooltips :
+### Tooltips 
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-1.jpg),
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-2.jpg),
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-3.jpg),
