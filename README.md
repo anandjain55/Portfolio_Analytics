@@ -1,5 +1,5 @@
 # Anand's Analytics Portfolio
-
+	Technical tools and Techniques used - Excel, Power BI, DAX, Data visualisation. 
 # Projekt 1 - Sales Dashboard und Datawarehouse mit Produkt- und Kundenhierarchieebenen (https://github.com/anandjain55/Sales-Dashboard)
 * Dies ist das Projekt, das ich während meines Praktikums durchgeführt habe. Es beinhaltet zunächst den Import von Daten in SQL Server mit Hilfe von SSIS.
 Die Vorgehensweise während des Projekts ist wie folgt:
