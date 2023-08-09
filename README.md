@@ -31,21 +31,22 @@ Die Vorgehensweise während des Projekts ist wie folgt:
 ![](Kundenhierarchie.jpg)
 
 # Projekt 2 - Personliche-Finanzen-Tracker-Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
-Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das Dashboard ebenfalls in Power BI erstellt.
+##  Geschäftsproblem und -kontext
+Erstellung eines persönlichen Finanz-Trackers, der bei der Verwaltung und Kontrolle der finanziellen Ausgaben hilft. Der Zweck dieses Projekts ist es, schon in jungen Jahren Finanzwissen zu vermitteln und Analysen in das tägliche Leben einzubinden.
 
-* Fragen, die während dieses Projekts beantwortet werden, sind:
-1. Gebe ich aus, was ich verdiene, oder spare ich, was ich verdiene?
-2. Wo / Wie gebe ich aus?
-3. Wo / Wie spare ich?
-4. Detaillierte Erklärung
-Verwendete Tools - Power BI Desktop
-# Kenntnisse - Power BI, Power query, DAX
+##  Datenquelle - Die Rohdaten der durchschnittlichen Ausgaben des Jahres 2022 aus Indien wurden in Excel erstellt.
+ Vorgehensweise - Die Rohdaten wurden in Excel erstellt und dann in Power BI importiert. ETL wurde für die Daten mit Power BI durchgeführt, und die bereinigten Daten wurden zur Erstellung eines Dashboards in Power BI verwendet.
+
+##  Abgeleitete Schlüsseleinblicke:
+Aus dem Bericht können wir Erkenntnisse über das Nettovermögen, die Genauigkeit des Ausgabenmusters, den Status der Sparziele, die besten und schlechtesten finanziellen Monate in Bezug auf Ausgaben und Einsparungen gewinnen.
+
+##  Verwendete technische Tools und Techniken - Excel, Power BI, DAX, Datenvisualisierung. 
+
 
 ##  Überblick über das Executive Dashboard 
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Persönliche_Finanzen_Tracker_Dashboard.jpg)
 
-# Tooltips
-![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-1.jpg),
+# Tooltips![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-1.jpg),
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-2.jpg),
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-3.jpg),
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-4.jpg)
