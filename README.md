@@ -43,22 +43,22 @@ Sql Server Management Studio, Visual Studio, Power BI Desktop.
 ## Verwendete Techniken / Fertigkeiten / Software :
 Sql Server Integration Services, Sql Server und Power BI, Datenvisualisierung, DAX.
 
-##  Überblick über das Executive Dashboard
+###  Überblick über das Executive Dashboard
 ![](Executive-Dashboard.jpg)
 
-##  Übersicht der Produktdetails
+###  Übersicht der Produktdetails
 ![](Produkt-Dashboard.jpg)
 
-##  Übersicht über die Kundendaten
+###  Übersicht über die Kundendaten
 ![](Kunden-Dashboard.jpg)
 
-##  Kartenansicht
+###  Kartenansicht
 ![](Karte.jpg)
 
-##  Übersicht der Produkthierarchie-Ebene 
+###  Übersicht der Produkthierarchie-Ebene 
 ![](Produkthierarchie.jpg)
 
-#  Übersicht der Kundenhierarchie-Ebene 
+###  Übersicht der Kundenhierarchie-Ebene 
 ![](Kundenhierarchie.jpg)
 
 
@@ -81,10 +81,7 @@ SQL Server Management Studio, MS Excel, Power BI Desktop.
 ## Verwendete Techniken / Fertigkeiten / Software :
 Excel, Power BI, DAX, Datenvisualisierung.
 
-## Verwendete technische Tools und Techniken :
-
-
-## Überblick über das Executive Dashboard :
+### Überblick über das Executive Dashboard :
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Persönliche_Finanzen_Tracker_Dashboard.jpg)
 
 # Tooltips :
@@ -122,22 +119,22 @@ Sql Server Management Studio, Power BI Desktop.
 ## Verwendete Techniken / Fertigkeiten / Software :
 SQL Server und Power BI, Datenvisualisierung, DAX.
 
-##  Überblick über das Executive Dashboard :
+###  Überblick über das Executive Dashboard :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Executive_Dashboard_der_AdventureWorks_Bike_Company.jpg)
 
-##  Übersicht der Produktdetails :
+###  Übersicht der Produktdetails :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Produktdetails_der_AdventureWorks_Bike_Company.jpg)
 
-##  Übersicht der Kundendaten :
+###  Übersicht der Kundendaten :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kundendetails_der_AdventureWorks_Bike_Company.jpg)
 
-##  Übersicht über die Kartenansicht :
+###  Übersicht über die Kartenansicht :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Karte_der_AdventureWorks_Bike_Company.jpg)
 
-##  Übersicht über den Tooltip für die Kategorie :
+###  Übersicht über den Tooltip für die Kategorie :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Tooltip_zur_Kategorie_AdventureWorks_Bike_Company.jpg)
 
-##  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen) :
+###  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen) :
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Visual_von_AdventureWorks_Bike_Company_(animiertes_Barrennen).jpg)
 
 
@@ -146,17 +143,15 @@ SQL Server und Power BI, Datenvisualisierung, DAX.
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
 
 Die Daten stammen aus echten Unternehmensdaten.
-## Verwendete technische Tools und Techniken :
-Excel, Power Pivot, Datenvisualisierung
-
-##  Überblick über das Executive Dashboard :
-![](HR_Data_Analytics-Dashboard.jpg)
 
 ## Verwendete technische Tools : 
 MS Excel
 
 ## Verwendete Techniken / Fertigkeiten / Software :
 Power Pivot, Datavisualisierung.
+
+###  Überblick über das Executive Dashboard :
+![](HR_Data_Analytics-Dashboard.jpg)
 
 
 
@@ -171,7 +166,7 @@ Sql Server Management Studio, Power BI Desktop,
 ## Verwendete Techniken / Fertigkeiten / Software :
 Sql Server und Power BI, Datenvisualisierung, DAX.
 
-## Überblick über das Executive Dashboard :
+### Überblick über das Executive Dashboard :
 ![](Hotel_Revenue-Dashboard.jpg)
 
 
@@ -182,7 +177,7 @@ Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das D
 ## Verwendete technische Tools : 
 Sql Server Management Studio, Power BI Desktop. 
 
-### Verwendete Techniken / Fertigkeiten / Software :
+## Verwendete Techniken / Fertigkeiten / Software :
 SQL Server und Power BI, Datenvisualisierung, DAX.
 
 ### Überblick über das Executive Dashboard :
