@@ -1,6 +1,6 @@
 # Anand's Analytics Portfolio
 
-# Projekt 1 - Sales Dashboard und Datawarehouse mit Produkt- und Kundenhierarchieebenen (https://github.com/anandjain55/Sales-Dashboard)
+# Projekt 1 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten (https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten)
 
 ## Geschäftsfall :
 In diesem Projekt müssen Sie mit den Daten vieler Unternehmen arbeiten, die sich mit einer Vielzahl von Produkten beschäftigen. Ihre Aufgabe ist es, die Daten mit SSIS aus der Hauptdatenbank zu extrahieren, einen Staging-Bereich zu erstellen und dann DataMart in SQL Server zu erstellen. Sie sollten KPI für den Verkauf verfolgen, kreative Diagramme erstellen, die die Verkäufe nach Monat und Jahr zeigen, hochwertige Kunden und Trends auf Produktebene analysieren.
@@ -64,7 +64,7 @@ Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 
 
 
-# Projekt 2 - Personliche-Finanzen-Tracker-Dashboard (https://github.com/anandjain55/Personliche-Finanzen-Tracker-Dashboard)
+# Projekt 2 - Persönlicher Finanz-Tracker Dashboard (https://github.com/anandjain55/Personlicher_Finanz-Tracker_Dashboard)
 
 ## Geschäftsproblem und kontext
 Erstellung eines persönlichen Finanz-Trackers, der bei der Verwaltung und Kontrolle der finanziellen Ausgaben hilft. Das Ziel dieses Projekts ist es, schon in jungen Jahren finanzielle Kenntnisse zu vermitteln und die Analytik in das tägliche Leben einzubinden.
@@ -111,7 +111,7 @@ Power BI- DAX, Datenvisualisierung.
 
 
 
-# Projekt 3 - AdventureWorks Bike-Bericht (https://github.com/anandjain55/AdventureWorks-Bike-Company-Report)
+# Projekt 3 - Datenanalyse der AdventureWorks Bike Company (https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company)
 
 ## Geschäftsproblem :
 Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
@@ -158,7 +158,7 @@ Power BI -  Datenvisualisierung, DAX.
 
 
 
-# Projekt 4 - HR Data Analytics Dashboard ([HR_Data_Analytics-Dashboard.jpg](https://github.com/anandjain55/Excel_HR_Analytics_Dashboard))
+# Projekt 4 - Personalwesen Datenanalyse (https://github.com/anandjain55/Personalwesen_Datenanalyse)
 
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
 
@@ -199,7 +199,7 @@ Power Query Editor, Datenvisualisierung (KPIs, Slicer, Diagramme und Schaubilder
 
 
 
-# Projekt 5 - Analyse historischer Hoteldaten (https://github.com/anandjain55/Analyse-historischer-Hoteldaten) 
+# Projekt 5 - Analyse historischer Hoteldaten https://github.com/anandjain55/Analyse_historischer_Hoteldaten) 
 
 ## Geschäftsproblem :
 Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
@@ -238,14 +238,41 @@ Power BI - Datenvisualisierung, DAX, Power Query-Editor.
 
 
 
-# Projekt 6 - Globale Supertstore_2016 Umsatz-Dashboard (https://github.com/anandjain55/Globale-Supertstore_2016-Umsatz-Dashboard)
-Dabei werden zunächst die Daten in Power BI verarbeitet und anschließend das Dashboard ebenfalls in Power BI erstellt.
+# Projekt 6 - Global Supertstore_2016 Datenanalyse (https://github.com/anandjain55/Global_Supertstore-2016_Datenanalyse)
 
-## Verwendete technische Tools : 
-Sql Server Management Studio, Power BI Desktop. 
+## Geschäftsproblem: 
+Führen Sie ETL auf dem globalen Superstor_2016-Datensatz durch, der in csv-Dateien vorliegt, indem Sie ihn in Power BI importieren. Erstellen Sie ein interaktives Dashboard, um KPIs zu Verkäufen, verkauften Mengen, Liefertagen und zurückgesandten Produkten zu verfolgen, Verkäufe nach Segmenten und Märkten zu vergleichen, hochwertige Kunden und Trends auf Produktebene zu analysieren.
 
-## Verwendete Techniken / Fertigkeiten / Software :
-SQL Server und Power BI, Datenvisualisierung, DAX.
+## Datenquelle:
+ Open-Source-Datensatz Global Superstor_2016.
+
+## Abgeleitete Schlüsselerkenntnisse : 
+1.	Der Umsatz, die Menge der verkauften Artikel, die durchschnittliche Anzahl der benötigten Liefertage und die Anzahl der zurückgesandten Bestellungen wurden anhand von KPIs berechnet.
+2.	Slicers hilft, die Daten nach Jahr zu filtern.
+3.	Die Eignung der Region für den Verkauf von Produkten wurde durch eine Karte dargestellt, die bei Bedarf zur Verbesserung unseres Geschäfts beitragen kann.
+4.	Das Tortendiagramm zeigt uns den Verkaufswert und seinen Prozentsatz nach Segment.
+5.	Das Donut-Diagramm zeigt die Verkaufsdetails nach Markt.
+6.	Die Filteroption "Top N" in Kombination mit den Balkendiagrammen hilft, die 10 besten Kunden und 10 besten Produkte mit den höchsten Gewinn- und Verlustwerten zu finden.
+
+## Ergebnis und Schlussfolgerung aus dem Dashboard :
+1.	Der Verkauf und die verkaufte Menge steigen von 2012 bis 2015 mit dem niedrigsten Wert im Jahr 2012 und dem höchsten Wert im Jahr 2015.
+2.	Der insgesamt höchste Umsatz hat einen Wert von 12,64 Mio. $ und die verkaufte Menge beträgt 178.000 Stück in allen Jahren. Der höchste Verkaufswert ($ 4,3 Mio.) wurde 2015 erzielt und die höchste verkaufte Menge betrug 60,62 T. 
+3.	Im Jahr 2015 verzeichnete das Verbrauchersegment den höchsten Umsatz (2,14 Mio. USD), was ungefähr der Hälfte des Gesamtumsatzes in diesem Jahr entspricht. Der asiatisch-pazifische Raum ist der größte Absatzmarkt (1,37 Mio. $) mit 31,93 % des Gesamtumsatzes.
+4.	Tamara Chand ist der umsatzstärkste Kunde in den Jahren 2012-2015 und auch im Jahr 2015.
+5.	Motorola smart phone full size hat den höchsten Gewinn im Jahr 2015 und Cannon imageCLASS 2200 Advance Copier hat den höchsten Gewinn zwischen 2012 -2015.
+6. Das Produkt mit dem höchsten Verlust ist der Bewis-Computertisch komplett montiert im Jahr 2015 und auch in den Jahren 2012-2015. 
+
+## Abgedeckte Schlüsselschritte : 
+1. Verbinden der Datenbank mit Power BI Desktop. 
+2. Analysieren der Tabellen und Beziehungen. 
+3. Datenbereinigung mit Power Query Editor mit DAX (Datenanalyseausdrücke). 
+4. Entwicklung eines interaktiven BI Dashboards / Berichts.
+
+## Verwendete technische Tools: 
+Excel, Power BI Desktop.
+
+## Verwendete Techniken / Fertigkeiten :
+Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 ### Überblick über das Executive Dashboard 
 ![](Globale_Supertstore_2016_Umsatz-Dashboard.jpg)
