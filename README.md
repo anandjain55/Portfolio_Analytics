@@ -284,13 +284,13 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 Übersicht über die Skishop-Analysis_with_Python
 
-![](Bilder der Skishop-Analyse mit Python/Ski Shop Analysis using Python_page-0001.jpg)
-![](Bilder der Skishop-Analyse mit Python/Ski Shop Analysis using Python_page-0002.jpg)
-![](Bilder der Skishop-Analyse mit Python/Ski Shop Analysis using Python_page-0003.jpg)
-![](Bilder der Skishop-Analyse mit Python/Ski Shop Analysis using Python_page-0004.jpg)
-![](Bilder der Skishop-Analyse mit Python/Ski Shop Analysis using Python_page-0005.jpg)
-![](Bilder der Skishop-Analyse mit Python/Ski Shop Analysis using Python_page-0006.jpg)
-![](Bilder der Skishop-Analyse mit Python/Ski Shop Analysis using Python_page-0007.jpg)
-![](Bilder der Skishop-Analyse mit Python/Ski Shop Analysis using Python_page-0008.jpg)
-![](Bilder der Skishop-Analyse mit Python/Ski Shop Analysis using Python_page-0009.jpg)
-![](Bilder der Skishop-Analyse mit Python/Ski Shop Analysis using Python_page-0010.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) 
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0002.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0003.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0004.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0005.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0006.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0007.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0008.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0009.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0010.jpg)
