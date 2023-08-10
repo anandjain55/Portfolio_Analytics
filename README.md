@@ -282,10 +282,10 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 # Projekt 7 - Skishop-Analyse_mit_Python (https://github.com/anandjain55/Skishop-Analyse_mit_Python)
 
-Übersicht über die Skishop-Analysis_with_Python
 
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) 
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0002.jpg)
+## Übersicht über die Skishop-Analysis_with_Python
+
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0002.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0003.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0004.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0005.jpg)
