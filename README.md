@@ -284,6 +284,8 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 
 ## Übersicht über die Skishop-Analysis_with_Python
+
+
 page 1
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) 
 page 2
