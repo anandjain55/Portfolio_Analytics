@@ -285,57 +285,34 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 
 ## Übersicht über die Skishop-Analysis_with_Python
-page 1 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) 
-page 2
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) 
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0002.jpg)
-page 3
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0003.jpg)
-page 4
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0004.jpg)
-page 5
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0005.jpg)
-page 6
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0006.jpg)
-page 7
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0007.jpg)
-page 8
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0008.jpg)
-page 9
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0009.jpg)
-page 10
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0010.jpg)
 
 # Projekt 8 - Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python (https://github.com/anandjain55/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python)
 
 
 ## Übersicht über die Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python
-page 1
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-01.jpg) 
-page 2
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-02.jpg)
-page 3
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-03.jpg)
-page 4
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-04.jpg)
-page 5
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-05.jpg)
-page 6
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-06.jpg)
-page 7
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-07.jpg)
-page 8
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-08.jpg)
-page 9
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-09.jpg)
-page 10
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-10.jpg)
-page 11
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-11.jpg)
-page 12
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-12.jpg)
-page 13
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-13.jpg)
-page 14
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-14.jpg)
 
 
