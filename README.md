@@ -238,7 +238,7 @@ Power BI - Datenvisualisierung, DAX, Power Query-Editor.
 
 
 
-# Projekt 6 - Global Supertstore_2016 Datenanalyse (https://github.com/anandjain55/Global_Supertstore-2016_Datenanalyse)
+# Projekt 6 - Global Supertstore Datenanalyse (https://github.com/anandjain55/Global_Supertstore_Datenanalyse)
 
 ## Geschäftsproblem: 
 Führen Sie ETL auf dem globalen Superstor_2016-Datensatz durch, der in csv-Dateien vorliegt, indem Sie ihn in Power BI importieren. Erstellen Sie ein interaktives Dashboard, um KPIs zu Verkäufen, verkauften Mengen, Liefertagen und zurückgesandten Produkten zu verfolgen, Verkäufe nach Segmenten und Märkten zu vergleichen, hochwertige Kunden und Trends auf Produktebene zu analysieren.
