@@ -277,10 +277,7 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 ### Überblick über das Executive Dashboard 
 ![](Globale_Supertstore_2016_Umsatz-Dashboard.jpg)
 
-
-
-
-# Projekt 7 - Skishop-Analyse_mit_Python (https://github.com/anandjain55/Skishop-Analyse_mit_Python)
+# Projekt 8 - Skishop-Analyse_mit_Python (https://github.com/anandjain55/Skishop-Analyse_mit_Python)
 
 
 ## Übersicht über die Skishop-Analysis_with_Python
@@ -306,8 +303,6 @@ page 9
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0009.jpg)
 page 10
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0010.jpg)
-
-
 
 # Projekt 8 - Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python (https://github.com/anandjain55/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python)
 
