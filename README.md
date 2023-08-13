@@ -64,7 +64,7 @@ Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 
 
 
-# Projekt 2 - Persönlicher Finanz-Tracker Dashboard (https://github.com/anandjain55/Personlicher_Finanz-Tracker_Dashboard)
+# Projekt 2 – Persönliche Finanz-Tracker-Analyse (https://github.com/anandjain55/Personlicher_Finanz-Tracker_Dashboard)
 
 ## Geschäftsproblem und kontext
 Erstellung eines persönlichen Finanz-Trackers, der bei der Verwaltung und Kontrolle der finanziellen Ausgaben hilft. Das Ziel dieses Projekts ist es, schon in jungen Jahren finanzielle Kenntnisse zu vermitteln und die Analytik in das tägliche Leben einzubinden.
@@ -119,18 +119,16 @@ Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsda
 ## Datenquelle:
 Historische Hoteldaten von 2018-2020.
 
+## Wichtige Erkenntnisse:
+1. KPIs für Umsatz, durchschnittliche Tagesraten, Gesamtübernachtungen, durchschnittliche Rabatte und benötigte Parkplätze helfen, einen Überblick über die Hoteldaten zu erhalten.
+2. Datums-, Hotel- und Länderslicer helfen, die Daten nach Bedarf zu filtern und KPI's zu ändern.
+3. Ein Liniendiagramm hilft, die Umsatzentwicklung der beiden Hotels für einen bestimmten Zeitraum zu vergleichen.
+4. Die Matrix zeigt einen Überblick über die Umsatzdaten und die benötigten Parkplätze, was uns hilft, unser Geschäftsproblem in Bezug auf die Größe des Parkplatzes zu lösen. Die blau hervorgehobenen Zeilen zeigen die höchsten Werte an.
 
-## Key Insights abgeleitet:
-1.	KPIs für Einnahmen, durchschnittliche Tagesraten, Gesamtübernachtungen, durchschnittliche Rabatte und benötigte Parkplätze helfen, einen Überblick über die Hoteldaten zu erhalten. 
-2.	Datum, Hoteltyp und Land Slicer hilft, die Daten nach Bedarf zu filtern und auch KPI's wird geändert.
-3.	Ein Liniendiagramm hilft, die Umsatzentwicklung beider Hotels für einen bestimmten Zeitraum zu vergleichen.
-4.	Die Matrix zeigt einen Überblick über die Umsatzdaten und die benötigten Parkplätze, was uns hilft, unser Geschäftsproblem in Bezug auf die Größe des Parkplatzes zu lösen. Die blau markierten Linien zeigen die Zeile mit dem höchsten Wert.
-
-## Ergebnis und Schlussfolgerung aus dem Dashboard :
-1.	Die Hoteleinnahmen steigen von 2018 bis 2020. Der höchste Umsatz ist im Jahr 2019 zwischen 2018 und 2020 und sein Wert beträgt 26,63 Millionen Dollar für beide Hotels und alle Länder. Unter beiden Hotels ist der Wert 2019 für das Stadthotel am höchsten und beträgt 7,19 Mio. $ für alle Länder.
-2.	Da der Prozentsatz der Parkplätze stagniert, haben wir nicht viele Anhaltspunkte, um zu entscheiden, ob wir einen Parkplatz bauen sollten oder nicht.
-3.	Der adr steigt von 2018- 2020 . Der höchste durchschnittliche Tagessatz ist im Jahr 2019 zwischen 2018 und 2020 und sein Wert beträgt 119,86 Mio. $ für beide Hotels und alle Länder. Bei beiden Hotels ist der durchschnittliche Tagessatz auch im Jahr 2020 für das Stadthotel am höchsten und hat einen Wert von 123,02 Mio. $ für alle Länder.
-
+## Ergebnis und Schlussfolgerung aus dem Dashboard:
+1. Der Hotelumsatz steigt von 2018 bis 2020. Der höchste Umsatz ist im Jahr 2019 von 2018 bis 2020 und sein Wert beträgt 26,63 Millionen Dollar für beide Hotels und alle Länder. Von beiden Hotels ist der Wert 2019 für das Stadthotel am höchsten und beträgt 7,19 Mio. USD für alle Länder.
+2. Da der Anteil der Parkplätze stagniert, haben wir nicht viele Anhaltspunkte, um zu entscheiden, ob wir einen Parkplatz bauen sollten oder nicht.
+3. Die Adr steigt von 2018-2020. Der höchste durchschnittliche Tagessatz ist im Jahr 2019 zwischen 2018 und 2020 und sein Wert beträgt 119,86 Millionen Dollar für beide Hotels und alle Länder. Für beide Hotels ist der durchschnittliche Tagessatz für das Stadthotel im Jahr 2020 mit 123,02 Mio. USD für alle Länder ebenfalls am höchsten.
 
 ## Verwendete technische Tools : 
 Sql Server Management Studio, Power BI Desktop.
