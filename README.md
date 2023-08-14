@@ -278,8 +278,14 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 # Projekt 7 - Skishop-Analyse_mit_Python (https://github.com/anandjain55/Skishop-Analyse_mit_Python)
 
+## Geschäftsproblem und -kontext:
+Dieses Projekt besteht aus zwei Teilen. Der erste Teil ist die Datenvorbereitung und der zweite Teil die Analyse. Der Excel-Experte ist seit drei Monaten auf Skiern unterwegs und muss nun die Verkaufsdaten für den Schwarzen Freitag analysieren. In der beigefügten Excel-Arbeitsmappe werden Sie sehen, dass Daten für Steuern und Summen fehlen. Sie müssen diese Datenzeilen mit Python? ausfüllen.
 
-## Übersicht über die Skishop-Analysis_with_Python
+Im zweiten Teil geht es darum, durch Aggregation von Daten einige Schlüsselkennzahlen zu berechnen, die sehr hilfreich sind, um zu ermitteln, wie gut die Leistung während des Black Friday war.
+
+Einige der Ziele in diesem Abschnitt sind die Definition einer Funktion, die Excel-Spalten summiert, die Nutzung eines Listenverständnisses, die Anwendung numerischer Funktionen zur Berechnung von KPIs, die Verwendung von Mengenoperationen, um eindeutige Elemente zu finden, die Erstellung eines Wörterbuchs mit verschachtelten Schleifen.
+
+### Projektlösung Schritt für Schritt mit Beschreibung:
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) 
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0002.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0003.jpg)
@@ -293,8 +299,42 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 # Projekt 8 - Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python (https://github.com/anandjain55/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python)
 
+## Geschäftsproblem und -kontext:
+Wenn Sie dies lesen, wurden Sie ausgewählt, um an einer geheimen Initiative mitzuwirken. Sie werden uns dabei helfen, einen Teil der Daten eines Unternehmens zu analysieren, das wir übernehmen wollen und das die Geschicke von Mega Mart erheblich verbessern könnte. 
 
-## Übersicht über die Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python
+Es handelt sich um eine tiefgehende Analyse, die der Geschäftsleitung unseres Unternehmens vorgelegt wird. Mai Jiomart plant die Übernahme eines anderen Einzelhändlers, um unseren Marktanteil zu vergrößern. Im Rahmen der Due-Diligence-Prüfung haben sie uns mehrere Tabellen über ihre Kunden und Umsätze übermittelt. Sie werden mit project_transactions.csv arbeiten und kurz einen Blick auf product.csv werfen.
+
+Die folgenden Aufgaben sind zu erfüllen:
+
+### 1.  Erstellung von Spalten:
+Erstellen Sie zwei Spalten:
+* Eine Spalte, in der der Gesamtrabatt pro Zeile erfasst wird.
+* Die prozentualen Rabatte. Achten Sie darauf, dass dieser positiv ist. Wenn der prozentuale Rabatt größer als 1 ist, setzen Sie ihn auf 1. Wenn er kleiner als 0 ist, setzen Sie ihn auf 0. Löschen Sie die einzelnen Rabattspalten.
+
+### 2. Gesamtstatistik
+Berechnen Sie:
+* Die Gesamtverkäufe.
+* Gesamtrabatt.
+* Gesamtprozentualer Rabatt.
+* Verkaufte Gesamtmenge.
+* Maximal verkaufte Menge in einer einzigen Zeile. Überprüfen Sie auch die Zeile. Hat diese einen hohen prozentualen Rabatt?
+* Gesamtverkaufswert pro Korb.
+* Gesamtverkaufswert pro Haushalt.
+
+### 3. Analyse der Haushalte
+* Stellen Sie die Verteilung des gesamten Verkaufswertes auf Haushaltsebene dar.
+* Welches waren die 10 wichtigsten Haushalte nach der gekauften Menge?
+* Welches waren die 10 wichtigsten Haushalte nach dem Verkaufswert?
+* Stellen Sie den Gesamtverkaufswert für die 10 wichtigsten Haushalte nach Wert dar, geordnet vom höchsten zum niedrigsten.
+
+### 4.	Produktanalyse
+* Mit welchen Produkten wurden die meisten Verkäufe nach Verkaufswert getätigt? Zeichnen Sie ein horizontales Balkendiagramm.
+* Hatten die 10 meistverkauften Artikel eine überdurchschnittlich hohe Rabattrate?
+* Welches war die häufigste PRODUCT_ID unter den Zeilen mit den Haushalten in unseren Top 10 Haushalten nach Umsatzwert?
+* Schlagen Sie die Namen der 10 umsatzstärksten Produkte im Datensatz products.csv nach.
+* Suchen Sie den Produktnamen des Artikels mit der höchsten verkauften Menge in einer einzigen Zeile.
+
+### Projektlösung Schritt für Schritt mit Beschreibung:
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-01.jpg) 
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-02.jpg)
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-03.jpg)
