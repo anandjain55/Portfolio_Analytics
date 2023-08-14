@@ -156,7 +156,7 @@ Power BI -  Datenvisualisierung, DAX.
 
 
 
-# Projekt 4 - Humanressourcen Datenanalyse (https://github.com/anandjain55/Personalwesen_Datenanalyse)
+# Projekt 4 - Humanressourcen Datenanalyse (https://github.com/anandjain55/Humanressourcen_Datenanalyse)
 
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
 
