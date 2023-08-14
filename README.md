@@ -1,7 +1,7 @@
 ## Anand Jain - Data / Business Intelligence Analyst
 
-### Hinweis: 
-Diese Website und das Portfolio wurden von mir (Anand Jain) erstellt. Diese Website und alle Daten sind durch die Datenschutzbestimmungen geschützt und die hier erstellten Dashboards dürfen nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
+### Hinweis:
+Dieses Portfolio und die zugehörigen GitHub-Repositories werden von mir (Anand Jain) erstellt. Die Daten dieser Website und aller Repositories sind durch die Datenschutzrichtlinie geschützt und die hier erstellten Dashboards sollten nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
 
 # Projekt 1 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten (https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten)
 
