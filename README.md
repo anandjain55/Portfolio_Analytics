@@ -1,4 +1,4 @@
-# Portfolio made by Anand Jain. The following all projects are made by me and should not be transfer
+### Note - This website and Portfolio has been made by me (Anand Jain). This webiste and all data has been protected under privacy policy and Dashboards created here should not be copied or transferred in any manner as per privacy policy.
 
 # Projekt 1 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten 
 
