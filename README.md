@@ -1,4 +1,4 @@
-# Portfolio_der_Analyseprojekte_Anand Jain
+# Portfolio made by Anand Jain. The following all projects are made by me and should not be transfer
 
 # Projekt 1 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten 
 
