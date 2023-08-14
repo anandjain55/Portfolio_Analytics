@@ -32,7 +32,7 @@ Sie sollten KPI für den Verkauf verfolgen, kreative Diagramme erstellen, die di
 4.	Wir können die tatsächlichen und geplanten Verkaufswerte für Produkte und Kunden für alle 3 Hierarchieebenen der Produkt- und Kundenmatrix vergleichen.
 5.	Wir können auch die Ist- und Budget-Verkaufswerte für die Top-Produkte und Top-Kunden vergleichen.
 6.	Anhand des Guage-Diagramms können wir die Differenz zwischen Budget und tatsächlichem Verkaufswert für einen bestimmten Kunden ermitteln.
-7.	7.	Das Schaubild zeigt den Minimalwert als 0 und den Maximalwert als das Doppelte des Umsatzes, wobei der Abrufwert der tatsächliche Umsatz von 2019-2023 und der Zielwert der Budget-Umsatz (umsatz_plan) von 2021-2023 ist.
+7.	Das Schaubild zeigt den Minimalwert als 0 und den Maximalwert als das Doppelte des Umsatzes, wobei der Abrufwert der tatsächliche Umsatz von 2019-2023 und der Zielwert der Budget-Umsatz (umsatz_plan) von 2021-2023 ist.
 8.	Das Ausblenden des Slicer-Panels enthält den Vertriebsweg-Slicer, der hilft, die Umsatzwerte von Kunden und Produkten zu filtern. 
 
 ### Icons und Logos :
@@ -40,13 +40,16 @@ Beschreibende Icons werden verwendet, um von einer Seite zur anderen zu wechseln
 
 ### Produkt- und Kundenhierarchieseiten:
 Die Produkt- und Kundenhierarchieseiten enthalten detailliertere Informationen über Kunden und Produkte. 
+
 Von der Seite "Executive Dashboard" oder "Product" können wir auf die Seite "Product Hierarchy" gehen, um mehr Details über Produkte zu sehen, während wir von der Seite "Customer" auf die Seite "Customer Hierarchy" gehen können, um mehr Details über Kunden zu sehen.
 
 ## Verwendete technische Tools : 
 Sql Server Management Studio, Visual Studio und Power BI Desktop, 
 
 ## Verwendete Techniken/Fähigkeiten :
+
 SQL Server - Sql Server Integration Services, ETL, Datamart, Gespeicherte Prozeduren, Ansichten,
+
 Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 
 ###  Überblick über das Executive Dashboard 
