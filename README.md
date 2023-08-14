@@ -1,4 +1,4 @@
-### Note - This website and Portfolio has been made by me (Anand Jain). This webiste and all data has been protected under privacy policy and Dashboards created here should not be copied or transferred in any manner as per privacy policy.
+### Hinweis: Diese Website und das Portfolio wurden von mir (Anand Jain) erstellt. Diese Website und alle Daten sind durch die Datenschutzbestimmungen geschützt und die hier erstellten Dashboards dürfen nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
 
 # Projekt 1 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten 
 
