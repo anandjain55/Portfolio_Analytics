@@ -194,6 +194,7 @@ Power Query Editor, Datenvisualisierung (KPIs, Slicer, Diagramme und Schaubilder
 
 
 
+
 # Projekt 5 - Analyse Historischer Hoteldaten 
 
 ## Geschäftsproblem :
@@ -230,6 +231,7 @@ Power BI - Datenvisualisierung, DAX, Power Query-Editor.
 
 ### Überblick über das Executive Dashboard 
 ![](Historische_Hoteldaten-Dashboard.jpg)
+
 
 
 
@@ -271,6 +273,8 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 ### Überblick über das Executive Dashboard 
 ![](Globales_Superstore_Verkaufs-Dashboard.jpg)
+
+
 
 
 
