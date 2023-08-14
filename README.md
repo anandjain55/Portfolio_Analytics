@@ -45,22 +45,22 @@ SQL Server - Sql Server Integration Services, ETL, Datamart, Gespeicherte Prozed
 Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 
 ###  Überblick über das Executive Dashboard 
-![](Executive-Dashboard.jpg)
+![](Bilder-Analyse_des_Berichts_über_hierarchiebasierte_Verkaufsdaten/Executive-Dashboard.jpg)
 
-###  Übersicht der Produktdetails 
-![](Produkt-Dashboard.jpg)
+###  Übersicht über das Dashboard auf Produktebene 
+![](Bilder-Analyse_des_Berichts_über_hierarchiebasierte_Verkaufsdaten/Produkt_Ebene_Dashboard.jpg)
 
-###  Übersicht über die Kundendaten 
-![](Kunden-Dashboard.jpg)
+###  Übersicht über die Kundenebene_Dashboard
+![](Bilder-Analyse_des_Berichts_über_hierarchiebasierte_Verkaufsdaten/Kunden_Ebene_Dashboard.jpg)
 
 ###  Kartenansicht 
-![](Karte.jpg)
+![](Bilder-Analyse_des_Berichts_über_hierarchiebasierte_Verkaufsdaten/Karte_Ansicht.jpg)
 
 ###  Übersicht der Produkthierarchie-Ebene 
-![](Produkthierarchie.jpg)
+![](Bilder-Analyse_des_Berichts_über_hierarchiebasierte_Verkaufsdaten/Produkt_Hierarchiestufe_Details.jpg)
 
 ###  Übersicht der Kundenhierarchie-Ebene 
-![](Kundenhierarchie.jpg)
+![](Bilder-Analyse_des_Berichts_über_hierarchiebasierte_Verkaufsdaten/Kunden_Hierarchiestufe_Details.jpg)
 
 
 
@@ -101,7 +101,7 @@ Excel,
 Power BI- DAX, Datenvisualisierung.
 
 ### Überblick über das Executive Dashboard 
-![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Persönliche_Finanzen_Tracker_Dashboard.jpg)
+![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Persönliche_Finanzen_Tracker-Dashboard.jpg)
 
 ### Tooltips 
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-1.jpg),
@@ -156,7 +156,7 @@ Power BI -  Datenvisualisierung, DAX.
 
 
 
-# Projekt 4 - Personalwesen Datenanalyse (https://github.com/anandjain55/Personalwesen_Datenanalyse)
+# Projekt 4 - Humanressourcen Datenanalyse (https://github.com/anandjain55/Personalwesen_Datenanalyse)
 
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
 
@@ -193,11 +193,11 @@ MS Excel, MS Power Point.
 Power Query Editor, Datenvisualisierung (KPIs, Slicer, Diagramme und Schaubilder)
 
 ###  Überblick über das Executive Dashboard 
-![](HR_Data_Analytics-Dashboard.jpg)
+![](HR_Datenanalyse-Dashboard.png)
 
 
 
-# Projekt 5 - Analyse historischer Hoteldaten https://github.com/anandjain55/Analyse_historischer_Hoteldaten) 
+# Projekt 5 - Analyse Historischer Hoteldaten https://github.com/anandjain55/Analyse_historischer_Hoteldaten) 
 
 ## Geschäftsproblem :
 Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
@@ -273,9 +273,7 @@ Excel, Power BI Desktop.
 Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 ### Überblick über das Executive Dashboard 
-![](Globale_Supertstore_2016_Umsatz-Dashboard.jpg)
-
-
+![](Globales_Superstore_Verkaufs-Dashboard.jpg)
 
 
 
