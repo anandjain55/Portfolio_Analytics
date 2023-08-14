@@ -1,4 +1,4 @@
-# Anand's Analytics Portfolio
+# Portfolio_der_Analyseprojekte
 
 # Projekt 1 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten 
 
