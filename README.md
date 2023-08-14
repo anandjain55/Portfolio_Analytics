@@ -1,12 +1,12 @@
-## Anand Jain - Data / Business Intelligence Analyst
+## Anand Jain - Data Analyst , Business Intelligence Analyst
 
-### Hinweis:
-Dieses Portfolio und die zugehörigen GitHub-Repositories werden von mir (Anand Jain) erstellt. Die Daten dieser Website und aller Repositories sind durch die Datenschutzrichtlinie geschützt und die hier erstellten Dashboards sollten nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
-
+### Hinweis: 
+Dieses Portfolio und die zugehörigen GitHub-Repositories werden von mir (Anand Jain) erstellt. Die Daten auf dieser Website und allen Repositories sind durch die Datenschutzrichtlinie geschützt und die hier erstellten Dashboards sollten nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
 
 # Projekt 1 - Datenanalyse der AdventureWorks Bike Company (https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company)
 
 ## Geschäftsproblem :
+
 Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
 
 ## Datenquelle:
@@ -49,8 +49,8 @@ Power BI -  Datenvisualisierung, DAX.
 # Projekt 2 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten (https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten)
 
 ## Geschäftsfall :
-In diesem Projekt müssen Sie mit den Daten vieler Unternehmen arbeiten, die sich mit einer Vielzahl von Produkten beschäftigen. Ihre Aufgabe ist es, die Daten mit SSIS aus der Hauptdatenbank zu extrahieren, einen Staging-Bereich zu erstellen und dann DataMart in SQL Server zu erstellen. Sie sollten KPI für den Verkauf verfolgen, kreative Diagramme erstellen, die die Verkäufe nach Monat und Jahr zeigen, hochwertige Kunden und Trends auf Produktebene analysieren.
-Außerdem sollten Sie in der Lage sein, für weitere Details auf Produkt- und Kundenebene aufzuschlüsseln. Ihr Bericht sollte einen Vergleich der Ist-Werte mit den Budgetwerten der Verkäufe enthalten.
+
+In diesem Projekt müssen Sie mit den Daten vieler Unternehmen arbeiten, die sich mit einer Vielzahl von Produkten beschäftigen. Ihre Aufgabe ist es, die Daten mit SSIS aus der Hauptdatenbank zu extrahieren, einen Staging-Bereich zu erstellen und dann DataMart in SQL Server zu erstellen. Sie sollten KPI für den Verkauf verfolgen, kreative Diagramme erstellen, die die Verkäufe nach Monat und Jahr zeigen, hochwertige Kunden und Trends auf Produktebene analysieren.Außerdem sollten Sie in der Lage sein, für weitere Details auf Produkt- und Kundenebene aufzuschlüsseln. Ihr Bericht sollte einen Vergleich der Ist-Werte mit den Budgetwerten der Verkäufe enthalten.
 
 ## Die wichtigsten Schritte während des Projekts sind folgende :
 1. Der Staging-Bereich des Datawarehouse wurde mithilfe von SSIS erstellt und alle Rohdaten wurden in den SQL Server importiert.
@@ -74,11 +74,12 @@ Außerdem sollten Sie in der Lage sein, für weitere Details auf Produkt- und Ku
 4.	Wir können die tatsächlichen und geplanten Verkaufswerte für Produkte und Kunden für alle 3 Hierarchieebenen der Produkt- und Kundenmatrix vergleichen.
 5.	Wir können auch die Ist- und Budget-Verkaufswerte für die Top-Produkte und Top-Kunden vergleichen.
 6.	Anhand des Guage-Diagramms können wir die Differenz zwischen Budget und tatsächlichem Verkaufswert für einen bestimmten Kunden ermitteln.
-7.	7.	Das Schaubild zeigt den Minimalwert als 0 und den Maximalwert als das Doppelte des Umsatzes, wobei der Abrufwert der tatsächliche Umsatz von 2019-2023 und der Zielwert der Budget-Umsatz (umsatz_plan) von 2021-2023 ist.
+7.	Das Schaubild zeigt den Minimalwert als 0 und den Maximalwert als das Doppelte des Umsatzes, wobei der Abrufwert der tatsächliche Umsatz von 2019-2023 und der Zielwert der Budget-Umsatz (umsatz_plan) von 2021-2023 ist.
 8.	Das Ausblenden des Slicer-Panels enthält den Vertriebsweg-Slicer, der hilft, die Umsatzwerte von Kunden und Produkten zu filtern. 
 
 ### Icons und Logos :
-Beschreibende Icons werden verwendet, um von einer Seite zur anderen zu wechseln, wie z.B. Produkt, Kunde, Karte und exec Dashboard. Das Slicer-Logo wurde verwendet, um den Vertriebsweg-Slicer auszublenden, um den Platz auf der Seite zu sparen. 
+Beschreibende Icons werden verwendet, um von einer Seite zur anderen zu wechseln, wie z.B. Produkt, Kunde, Karte und exec Dashboard. 
+Das Slicer-Logo wurde verwendet, um den Vertriebsweg-Slicer auszublenden, um den Platz auf der Seite zu sparen. 
 
 ### Produkt- und Kundenhierarchieseiten:
 Die Produkt- und Kundenhierarchieseiten enthalten detailliertere Informationen über Kunden und Produkte. Von der Seite "Executive Dashboard" oder "Product" können wir auf die Seite "Product Hierarchy" gehen, um mehr Details über Produkte zu sehen, während wir von der Seite "Customer" auf die Seite "Customer Hierarchy" gehen können, um mehr Details über Kunden zu sehen.
@@ -107,6 +108,7 @@ Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 
 ###  Übersicht der Kundenhierarchie-Ebene 
 ![](Bilder-Analyse_des_Berichts_über_hierarchiebasierte_Verkaufsdaten/Kunden_Hierarchiestufe_Details.jpg)
+
 
 
 # Projekt 3 – Persönliche Finanz-Tracker-Analyse (https://github.com/anandjain55/Personlicher_Finanz-Tracker_Dashboard)
@@ -155,6 +157,7 @@ Power BI- DAX, Datenvisualisierung.
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-4.jpg)
 
 
+
 # Projekt 4 - Humanressourcen Datenanalyse (https://github.com/anandjain55/Humanressourcen_Datenanalyse)
 
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
@@ -196,7 +199,7 @@ Power Query Editor, Datenvisualisierung (KPIs, Slicer, Diagramme und Schaubilder
 
 
 
-# Projekt 5 - Analyse Historischer Hoteldaten https://github.com/anandjain55/Analyse_historischer_Hoteldaten) 
+# Projekt 5 - Analyse Historischer Hoteldaten (https://github.com/anandjain55/Analyse_historischer_Hoteldaten)
 
 ## Geschäftsproblem :
 Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
@@ -235,7 +238,8 @@ Power BI - Datenvisualisierung, DAX, Power Query-Editor.
 
 
 
-# Projekt 6 - Globale Superstore-Verkaufsdatenanalyse (https://github.com/anandjain55/Global_Supertstore_Datenanalyse)
+
+# Projekt 6 - Globale Superstore-Verkaufsdatenanalyse (https://github.com/anandjain55/Global_Supertstore_Datenanalyse) 
 
 ## Geschäftsproblem: 
 Führen Sie ETL auf dem globalen Superstor_2016-Datensatz durch, der in csv-Dateien vorliegt, indem Sie ihn in Power BI importieren. Erstellen Sie ein interaktives Dashboard, um KPIs zu Verkäufen, verkauften Mengen, Liefertagen und zurückgesandten Produkten zu verfolgen, Verkäufe nach Segmenten und Märkten zu vergleichen, hochwertige Kunden und Trends auf Produktebene zu analysieren.
@@ -285,7 +289,7 @@ Im zweiten Teil geht es darum, durch Aggregation von Daten einige Schlüsselkenn
 
 Einige der Ziele in diesem Abschnitt sind die Definition einer Funktion, die Excel-Spalten summiert, die Nutzung eines Listenverständnisses, die Anwendung numerischer Funktionen zur Berechnung von KPIs, die Verwendung von Mengenoperationen, um eindeutige Elemente zu finden, die Erstellung eines Wörterbuchs mit verschachtelten Schleifen.
 
-### Projektlösung Schritt für Schritt mit Beschreibung:
+## Projektlösung Schritt für Schritt mit Beschreibung:
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) 
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0002.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0003.jpg)
@@ -297,7 +301,7 @@ Einige der Ziele in diesem Abschnitt sind die Definition einer Funktion, die Exc
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0009.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0010.jpg)
 
-# Projekt 8 - Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python (https://github.com/anandjain55/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python)
+# Projekt 8 - Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python (https://github.com/anandjain55/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python) 
 
 ## Geschäftsproblem und -kontext:
 Wenn Sie dies lesen, wurden Sie ausgewählt, um an einer geheimen Initiative mitzuwirken. Sie werden uns dabei helfen, einen Teil der Daten eines Unternehmens zu analysieren, das wir übernehmen wollen und das die Geschicke von Mega Mart erheblich verbessern könnte. 
@@ -333,6 +337,7 @@ Berechnen Sie:
 * Welches war die häufigste PRODUCT_ID unter den Zeilen mit den Haushalten in unseren Top 10 Haushalten nach Umsatzwert?
 * Schlagen Sie die Namen der 10 umsatzstärksten Produkte im Datensatz products.csv nach.
 * Suchen Sie den Produktnamen des Artikels mit der höchsten verkauften Menge in einer einzigen Zeile.
+
 
 ### Projektlösung Schritt für Schritt mit Beschreibung:
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-01.jpg) 
