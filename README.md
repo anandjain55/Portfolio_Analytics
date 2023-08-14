@@ -3,11 +3,11 @@
 ### Hinweis: 
 Diese Website und das Portfolio wurden von mir (Anand Jain) erstellt. Diese Website und alle Daten sind durch die Datenschutzbestimmungen geschützt und die hier erstellten Dashboards dürfen nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
 
-# Projekt 1 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten 
+# Projekt 1 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten (https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten)
 
 ## Geschäftsfall :
-
-In diesem Projekt müssen Sie mit den Daten vieler Unternehmen arbeiten, die sich mit einer Vielzahl von Produkten beschäftigen. Ihre Aufgabe ist es, die Daten mit SSIS aus der Hauptdatenbank zu extrahieren, einen Staging-Bereich zu erstellen und dann DataMart in SQL Server zu erstellen. Sie sollten KPI für den Verkauf verfolgen, kreative Diagramme erstellen, die die Verkäufe nach Monat und Jahr zeigen, hochwertige Kunden und Trends auf Produktebene analysieren.Außerdem sollten Sie in der Lage sein, für weitere Details auf Produkt- und Kundenebene aufzuschlüsseln. Ihr Bericht sollte einen Vergleich der Ist-Werte mit den Budgetwerten der Verkäufe enthalten.
+In diesem Projekt müssen Sie mit den Daten vieler Unternehmen arbeiten, die sich mit einer Vielzahl von Produkten beschäftigen. Ihre Aufgabe ist es, die Daten mit SSIS aus der Hauptdatenbank zu extrahieren, einen Staging-Bereich zu erstellen und dann DataMart in SQL Server zu erstellen. Sie sollten KPI für den Verkauf verfolgen, kreative Diagramme erstellen, die die Verkäufe nach Monat und Jahr zeigen, hochwertige Kunden und Trends auf Produktebene analysieren.
+Außerdem sollten Sie in der Lage sein, für weitere Details auf Produkt- und Kundenebene aufzuschlüsseln. Ihr Bericht sollte einen Vergleich der Ist-Werte mit den Budgetwerten der Verkäufe enthalten.
 
 ## Die wichtigsten Schritte während des Projekts sind folgende :
 1. Der Staging-Bereich des Datawarehouse wurde mithilfe von SSIS erstellt und alle Rohdaten wurden in den SQL Server importiert.
@@ -31,12 +31,11 @@ In diesem Projekt müssen Sie mit den Daten vieler Unternehmen arbeiten, die sic
 4.	Wir können die tatsächlichen und geplanten Verkaufswerte für Produkte und Kunden für alle 3 Hierarchieebenen der Produkt- und Kundenmatrix vergleichen.
 5.	Wir können auch die Ist- und Budget-Verkaufswerte für die Top-Produkte und Top-Kunden vergleichen.
 6.	Anhand des Guage-Diagramms können wir die Differenz zwischen Budget und tatsächlichem Verkaufswert für einen bestimmten Kunden ermitteln.
-7.	Das Schaubild zeigt den Minimalwert als 0 und den Maximalwert als das Doppelte des Umsatzes, wobei der Abrufwert der tatsächliche Umsatz von 2019-2023 und der Zielwert der Budget-Umsatz (umsatz_plan) von 2021-2023 ist.
+7.	7.	Das Schaubild zeigt den Minimalwert als 0 und den Maximalwert als das Doppelte des Umsatzes, wobei der Abrufwert der tatsächliche Umsatz von 2019-2023 und der Zielwert der Budget-Umsatz (umsatz_plan) von 2021-2023 ist.
 8.	Das Ausblenden des Slicer-Panels enthält den Vertriebsweg-Slicer, der hilft, die Umsatzwerte von Kunden und Produkten zu filtern. 
 
 ### Icons und Logos :
-Beschreibende Icons werden verwendet, um von einer Seite zur anderen zu wechseln, wie z.B. Produkt, Kunde, Karte und exec Dashboard. 
-Das Slicer-Logo wurde verwendet, um den Vertriebsweg-Slicer auszublenden, um den Platz auf der Seite zu sparen. 
+Beschreibende Icons werden verwendet, um von einer Seite zur anderen zu wechseln, wie z.B. Produkt, Kunde, Karte und exec Dashboard. Das Slicer-Logo wurde verwendet, um den Vertriebsweg-Slicer auszublenden, um den Platz auf der Seite zu sparen. 
 
 ### Produkt- und Kundenhierarchieseiten:
 Die Produkt- und Kundenhierarchieseiten enthalten detailliertere Informationen über Kunden und Produkte. Von der Seite "Executive Dashboard" oder "Product" können wir auf die Seite "Product Hierarchy" gehen, um mehr Details über Produkte zu sehen, während wir von der Seite "Customer" auf die Seite "Customer Hierarchy" gehen können, um mehr Details über Kunden zu sehen.
@@ -68,7 +67,7 @@ Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 
 
 
-# Projekt 2 – Persönliche Finanz-Tracker-Analyse 
+# Projekt 2 – Persönliche Finanz-Tracker-Analyse (https://github.com/anandjain55/Personlicher_Finanz-Tracker_Dashboard)
 
 ## Geschäftsproblem und kontext
 Erstellung eines persönlichen Finanz-Trackers, der bei der Verwaltung und Kontrolle der finanziellen Ausgaben hilft. Das Ziel dieses Projekts ist es, schon in jungen Jahren finanzielle Kenntnisse zu vermitteln und die Analytik in das tägliche Leben einzubinden.
@@ -115,10 +114,9 @@ Power BI- DAX, Datenvisualisierung.
 
 
 
-# Projekt 3 - Datenanalyse der AdventureWorks Bike Company 
+# Projekt 3 - Datenanalyse der AdventureWorks Bike Company (https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company)
 
 ## Geschäftsproblem :
-
 Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
 
 ## Datenquelle:
@@ -158,7 +156,7 @@ Power BI -  Datenvisualisierung, DAX.
 
 
 
-# Projekt 4 - Humanressourcen Datenanalyse 
+# Projekt 4 - Humanressourcen Datenanalyse (https://github.com/anandjain55/Personalwesen_Datenanalyse)
 
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
 
@@ -199,7 +197,7 @@ Power Query Editor, Datenvisualisierung (KPIs, Slicer, Diagramme und Schaubilder
 
 
 
-# Projekt 5 - Analyse Historischer Hoteldaten 
+# Projekt 5 - Analyse Historischer Hoteldaten https://github.com/anandjain55/Analyse_historischer_Hoteldaten) 
 
 ## Geschäftsproblem :
 Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
@@ -238,8 +236,7 @@ Power BI - Datenvisualisierung, DAX, Power Query-Editor.
 
 
 
-
-# Projekt 6 - Globale Superstore-Verkaufsdatenanalyse 
+# Projekt 6 - Globale Superstore-Verkaufsdatenanalyse (https://github.com/anandjain55/Global_Supertstore_Datenanalyse)
 
 ## Geschäftsproblem: 
 Führen Sie ETL auf dem globalen Superstor_2016-Datensatz durch, der in csv-Dateien vorliegt, indem Sie ihn in Power BI importieren. Erstellen Sie ein interaktives Dashboard, um KPIs zu Verkäufen, verkauften Mengen, Liefertagen und zurückgesandten Produkten zu verfolgen, Verkäufe nach Segmenten und Märkten zu vergleichen, hochwertige Kunden und Trends auf Produktebene zu analysieren.
@@ -280,18 +277,10 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 
 
+# Projekt 7 - Skishop-Analyse_mit_Python (https://github.com/anandjain55/Skishop-Analyse_mit_Python)
 
 
-# Projekt 7 - Skishop-Analyse_mit_Python 
-
-## Geschäftsproblem und -kontext:
-Dieses Projekt besteht aus zwei Teilen. Der erste Teil ist die Datenvorbereitung und der zweite Teil die Analyse. Der Excel-Experte ist seit drei Monaten auf Skiern unterwegs und muss nun die Verkaufsdaten für den Schwarzen Freitag analysieren. In der beigefügten Excel-Arbeitsmappe werden Sie sehen, dass Daten für Steuern und Summen fehlen. Sie müssen diese Datenzeilen mit Python? ausfüllen.
-
-Im zweiten Teil geht es darum, durch Aggregation von Daten einige Schlüsselkennzahlen zu berechnen, die sehr hilfreich sind, um zu ermitteln, wie gut die Leistung während des Black Friday war.
-
-Einige der Ziele in diesem Abschnitt sind die Definition einer Funktion, die Excel-Spalten summiert, die Nutzung eines Listenverständnisses, die Anwendung numerischer Funktionen zur Berechnung von KPIs, die Verwendung von Mengenoperationen, um eindeutige Elemente zu finden, die Erstellung eines Wörterbuchs mit verschachtelten Schleifen.
-
-## Projektlösung Schritt für Schritt mit Beschreibung:
+## Übersicht über die Skishop-Analysis_with_Python
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) 
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0002.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0003.jpg)
@@ -302,45 +291,11 @@ Einige der Ziele in diesem Abschnitt sind die Definition einer Funktion, die Exc
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0008.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0009.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0010.jpg)
-# Projekt 8 - Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python 
 
-## Geschäftsproblem und -kontext:
-Wenn Sie dies lesen, wurden Sie ausgewählt, um an einer geheimen Initiative mitzuwirken. Sie werden uns dabei helfen, einen Teil der Daten eines Unternehmens zu analysieren, das wir übernehmen wollen und das die Geschicke von Mega Mart erheblich verbessern könnte. 
-
-Es handelt sich um eine tiefgehende Analyse, die der Geschäftsleitung unseres Unternehmens vorgelegt wird. Mai Jiomart plant die Übernahme eines anderen Einzelhändlers, um unseren Marktanteil zu vergrößern. Im Rahmen der Due-Diligence-Prüfung haben sie uns mehrere Tabellen über ihre Kunden und Umsätze übermittelt. Sie werden mit project_transactions.csv arbeiten und kurz einen Blick auf product.csv werfen.
-
-Die folgenden Aufgaben sind zu erfüllen:
-
-### 1.  Erstellung von Spalten:
-Erstellen Sie zwei Spalten:
-* Eine Spalte, in der der Gesamtrabatt pro Zeile erfasst wird.
-* Die prozentualen Rabatte. Achten Sie darauf, dass dieser positiv ist. Wenn der prozentuale Rabatt größer als 1 ist, setzen Sie ihn auf 1. Wenn er kleiner als 0 ist, setzen Sie ihn auf 0. Löschen Sie die einzelnen Rabattspalten.
-
-### 2. Gesamtstatistik
-Berechnen Sie:
-* Die Gesamtverkäufe.
-* Gesamtrabatt.
-* Gesamtprozentualer Rabatt.
-* Verkaufte Gesamtmenge.
-* Maximal verkaufte Menge in einer einzigen Zeile. Überprüfen Sie auch die Zeile. Hat diese einen hohen prozentualen Rabatt?
-* Gesamtverkaufswert pro Korb.
-* Gesamtverkaufswert pro Haushalt.
-
-### 3. Analyse der Haushalte
-* Stellen Sie die Verteilung des gesamten Verkaufswertes auf Haushaltsebene dar.
-* Welches waren die 10 wichtigsten Haushalte nach der gekauften Menge?
-* Welches waren die 10 wichtigsten Haushalte nach dem Verkaufswert?
-* Stellen Sie den Gesamtverkaufswert für die 10 wichtigsten Haushalte nach Wert dar, geordnet vom höchsten zum niedrigsten.
-
-### 4.	Produktanalyse
-* Mit welchen Produkten wurden die meisten Verkäufe nach Verkaufswert getätigt? Zeichnen Sie ein horizontales Balkendiagramm.
-* Hatten die 10 meistverkauften Artikel eine überdurchschnittlich hohe Rabattrate?
-* Welches war die häufigste PRODUCT_ID unter den Zeilen mit den Haushalten in unseren Top 10 Haushalten nach Umsatzwert?
-* Schlagen Sie die Namen der 10 umsatzstärksten Produkte im Datensatz products.csv nach.
-* Suchen Sie den Produktnamen des Artikels mit der höchsten verkauften Menge in einer einzigen Zeile.
+# Projekt 8 - Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python (https://github.com/anandjain55/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python)
 
 
-### Projektlösung Schritt für Schritt mit Beschreibung:
+## Übersicht über die Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-01.jpg) 
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-02.jpg)
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-03.jpg)
