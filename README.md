@@ -3,7 +3,50 @@
 ### Hinweis:
 Dieses Portfolio und die zugehörigen GitHub-Repositories werden von mir (Anand Jain) erstellt. Die Daten dieser Website und aller Repositories sind durch die Datenschutzrichtlinie geschützt und die hier erstellten Dashboards sollten nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
 
-# Projekt 1 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten (https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten)
+
+# Projekt 1 - Datenanalyse der AdventureWorks Bike Company (https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company)
+
+## Geschäftsproblem :
+Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
+
+## Datenquelle:
+Historische Hoteldaten von 2018-2020.
+
+## Wichtige Erkenntnisse:
+1. KPIs für Umsatz, durchschnittliche Tagesraten, Gesamtübernachtungen, durchschnittliche Rabatte und benötigte Parkplätze helfen, einen Überblick über die Hoteldaten zu erhalten.
+2. Datums-, Hotel- und Länderslicer helfen, die Daten nach Bedarf zu filtern und KPI's zu ändern.
+3. Ein Liniendiagramm hilft, die Umsatzentwicklung der beiden Hotels für einen bestimmten Zeitraum zu vergleichen.
+4. Die Matrix zeigt einen Überblick über die Umsatzdaten und die benötigten Parkplätze, was uns hilft, unser Geschäftsproblem in Bezug auf die Größe des Parkplatzes zu lösen. Die blau hervorgehobenen Zeilen zeigen die höchsten Werte an.
+
+## Ergebnis und Schlussfolgerung aus dem Dashboard:
+1. Der Hotelumsatz steigt von 2018 bis 2020. Der höchste Umsatz ist im Jahr 2019 von 2018 bis 2020 und sein Wert beträgt 26,63 Millionen Dollar für beide Hotels und alle Länder. Von beiden Hotels ist der Wert 2019 für das Stadthotel am höchsten und beträgt 7,19 Mio. USD für alle Länder.
+2. Da der Anteil der Parkplätze stagniert, haben wir nicht viele Anhaltspunkte, um zu entscheiden, ob wir einen Parkplatz bauen sollten oder nicht.
+3. Die Adr steigt von 2018-2020. Der höchste durchschnittliche Tagessatz ist im Jahr 2019 zwischen 2018 und 2020 und sein Wert beträgt 119,86 Millionen Dollar für beide Hotels und alle Länder. Für beide Hotels ist der durchschnittliche Tagessatz für das Stadthotel im Jahr 2020 mit 123,02 Mio. USD für alle Länder ebenfalls am höchsten.
+
+## Verwendete technische Tools : 
+Sql Server Management Studio, Power BI Desktop.
+
+## Verwendete Techniken/Fähigkeiten :
+Power BI -  Datenvisualisierung, DAX.
+
+###  Überblick über das Executive Dashboard 
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Executive-Dashboard.jpg)
+
+###  Übersicht über das Dashboard auf Produktebene 
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Produkt_Ebene-Dashboard.jpg)
+
+###  Übersicht über die Kundenebene_Dashboard
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kunden_Ebene-Dashboard.jpg)
+
+###  Übersicht über den Tooltip für die Kategorie 
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kategorie_Tooltip.jpg)
+
+###  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen) 
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Bildmaterial_(Animierter_Balkenlauf).jpg)
+
+
+
+# Projekt 2 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten (https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten)
 
 ## Geschäftsfall :
 In diesem Projekt müssen Sie mit den Daten vieler Unternehmen arbeiten, die sich mit einer Vielzahl von Produkten beschäftigen. Ihre Aufgabe ist es, die Daten mit SSIS aus der Hauptdatenbank zu extrahieren, einen Staging-Bereich zu erstellen und dann DataMart in SQL Server zu erstellen. Sie sollten KPI für den Verkauf verfolgen, kreative Diagramme erstellen, die die Verkäufe nach Monat und Jahr zeigen, hochwertige Kunden und Trends auf Produktebene analysieren.
@@ -66,8 +109,7 @@ Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 ![](Bilder-Analyse_des_Berichts_über_hierarchiebasierte_Verkaufsdaten/Kunden_Hierarchiestufe_Details.jpg)
 
 
-
-# Projekt 2 – Persönliche Finanz-Tracker-Analyse (https://github.com/anandjain55/Personlicher_Finanz-Tracker_Dashboard)
+# Projekt 3 – Persönliche Finanz-Tracker-Analyse (https://github.com/anandjain55/Personlicher_Finanz-Tracker_Dashboard)
 
 ## Geschäftsproblem und kontext
 Erstellung eines persönlichen Finanz-Trackers, der bei der Verwaltung und Kontrolle der finanziellen Ausgaben hilft. Das Ziel dieses Projekts ist es, schon in jungen Jahren finanzielle Kenntnisse zu vermitteln und die Analytik in das tägliche Leben einzubinden.
@@ -111,49 +153,6 @@ Power BI- DAX, Datenvisualisierung.
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-2.jpg),
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-3.jpg),
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-4.jpg)
-
-
-
-# Projekt 3 - Datenanalyse der AdventureWorks Bike Company (https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company)
-
-## Geschäftsproblem :
-Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
-
-## Datenquelle:
-Historische Hoteldaten von 2018-2020.
-
-## Wichtige Erkenntnisse:
-1. KPIs für Umsatz, durchschnittliche Tagesraten, Gesamtübernachtungen, durchschnittliche Rabatte und benötigte Parkplätze helfen, einen Überblick über die Hoteldaten zu erhalten.
-2. Datums-, Hotel- und Länderslicer helfen, die Daten nach Bedarf zu filtern und KPI's zu ändern.
-3. Ein Liniendiagramm hilft, die Umsatzentwicklung der beiden Hotels für einen bestimmten Zeitraum zu vergleichen.
-4. Die Matrix zeigt einen Überblick über die Umsatzdaten und die benötigten Parkplätze, was uns hilft, unser Geschäftsproblem in Bezug auf die Größe des Parkplatzes zu lösen. Die blau hervorgehobenen Zeilen zeigen die höchsten Werte an.
-
-## Ergebnis und Schlussfolgerung aus dem Dashboard:
-1. Der Hotelumsatz steigt von 2018 bis 2020. Der höchste Umsatz ist im Jahr 2019 von 2018 bis 2020 und sein Wert beträgt 26,63 Millionen Dollar für beide Hotels und alle Länder. Von beiden Hotels ist der Wert 2019 für das Stadthotel am höchsten und beträgt 7,19 Mio. USD für alle Länder.
-2. Da der Anteil der Parkplätze stagniert, haben wir nicht viele Anhaltspunkte, um zu entscheiden, ob wir einen Parkplatz bauen sollten oder nicht.
-3. Die Adr steigt von 2018-2020. Der höchste durchschnittliche Tagessatz ist im Jahr 2019 zwischen 2018 und 2020 und sein Wert beträgt 119,86 Millionen Dollar für beide Hotels und alle Länder. Für beide Hotels ist der durchschnittliche Tagessatz für das Stadthotel im Jahr 2020 mit 123,02 Mio. USD für alle Länder ebenfalls am höchsten.
-
-## Verwendete technische Tools : 
-Sql Server Management Studio, Power BI Desktop.
-
-## Verwendete Techniken/Fähigkeiten :
-Power BI -  Datenvisualisierung, DAX.
-
-###  Überblick über das Executive Dashboard 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Executive-Dashboard.jpg)
-
-###  Übersicht über das Dashboard auf Produktebene 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Produkt_Ebene-Dashboard.jpg)
-
-###  Übersicht über die Kundenebene_Dashboard
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kunden_Ebene-Dashboard.jpg)
-
-###  Übersicht über den Tooltip für die Kategorie 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kategorie_Tooltip.jpg)
-
-###  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen) 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Bildmaterial_(Animierter_Balkenlauf).jpg)
-
 
 
 # Projekt 4 - Humanressourcen Datenanalyse (https://github.com/anandjain55/Humanressourcen_Datenanalyse)
