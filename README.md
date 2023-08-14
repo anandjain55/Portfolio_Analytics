@@ -137,22 +137,19 @@ Sql Server Management Studio, Power BI Desktop.
 Power BI -  Datenvisualisierung, DAX.
 
 ###  Überblick über das Executive Dashboard 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Executive_Dashboard_der_AdventureWorks_Bike_Company.jpg)
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Executive-Dashboard.jpg)
 
-###  Übersicht der Produktdetails 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Produktdetails_der_AdventureWorks_Bike_Company.jpg)
+###  Übersicht über das Dashboard auf Produktebene 
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Produkt_Ebene-Dashboard.jpg)
 
-###  Übersicht der Kundendaten 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kundendetails_der_AdventureWorks_Bike_Company.jpg)
-
-###  Übersicht über die Kartenansicht 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Karte_der_AdventureWorks_Bike_Company.jpg)
+###  Übersicht über die Kundenebene_Dashboard
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kunden_Ebene-Dashboard.jpg)
 
 ###  Übersicht über den Tooltip für die Kategorie 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Tooltip_zur_Kategorie_AdventureWorks_Bike_Company.jpg)
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kategorie_Tooltip.jpg)
 
 ###  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen) 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Visual_von_AdventureWorks_Bike_Company_(animiertes_Barrennen).jpg)
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Bildmaterial_(Animierter_Balkenlauf).jpg)
 
 
 
