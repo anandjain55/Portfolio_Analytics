@@ -3,7 +3,8 @@
 ### Hinweis: 
 Dieses Portfolio und die zugehörigen GitHub-Repositories werden von mir (Anand Jain) erstellt. Die Daten auf dieser Website und allen Repositories sind durch die Datenschutzrichtlinie geschützt und die hier erstellten Dashboards sollten nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
 
-# Projekt 1 - Datenanalyse der AdventureWorks Bike Company (https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company)
+# Projekt 1 - Datenanalyse der AdventureWorks Bike Company 
+(https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company)
 
 ## Geschäftsproblem :
 
@@ -46,7 +47,8 @@ Power BI -  Datenvisualisierung, DAX.
 
 
 
-# Projekt 2 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten (https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten)
+# Projekt 2 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten
+(https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten)
 
 ## Geschäftsfall :
 
@@ -111,7 +113,8 @@ Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 
 
 
-# Projekt 3 – Persönliche Finanz-Tracker-Analyse (https://github.com/anandjain55/Personlicher_Finanz-Tracker_Dashboard)
+# Projekt 3 – Persönliche Finanz-Tracker-Analyse 
+(https://github.com/anandjain55/Personlicher_Finanz-Tracker_Dashboard)
 
 ## Geschäftsproblem und kontext
 Erstellung eines persönlichen Finanz-Trackers, der bei der Verwaltung und Kontrolle der finanziellen Ausgaben hilft. Das Ziel dieses Projekts ist es, schon in jungen Jahren finanzielle Kenntnisse zu vermitteln und die Analytik in das tägliche Leben einzubinden.
@@ -158,7 +161,8 @@ Power BI- DAX, Datenvisualisierung.
 
 
 
-# Projekt 4 - Humanressourcen Datenanalyse (https://github.com/anandjain55/Humanressourcen_Datenanalyse)
+# Projekt 4 - Humanressourcen Datenanalyse 
+(https://github.com/anandjain55/Humanressourcen_Datenanalyse)
 
 Dies ist das Projekt, das ich während meiner Kurse durchgeführt habe. Dabei werden die Daten zunächst in Excel verarbeitet und dann das Dashboard in Excel erstellt.
 
@@ -199,7 +203,8 @@ Power Query Editor, Datenvisualisierung (KPIs, Slicer, Diagramme und Schaubilder
 
 
 
-# Projekt 5 - Analyse Historischer Hoteldaten (https://github.com/anandjain55/Analyse_historischer_Hoteldaten)
+# Projekt 5 - Analyse Historischer Hoteldaten 
+(https://github.com/anandjain55/Analyse_historischer_Hoteldaten)
 
 ## Geschäftsproblem :
 Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
@@ -239,7 +244,8 @@ Power BI - Datenvisualisierung, DAX, Power Query-Editor.
 
 
 
-# Projekt 6 - Globale Superstore-Verkaufsdatenanalyse (https://github.com/anandjain55/Global_Supertstore_Datenanalyse) 
+# Projekt 6 - Globale Superstore-Verkaufsdatenanalyse 
+(https://github.com/anandjain55/Global_Supertstore_Datenanalyse) 
 
 ## Geschäftsproblem: 
 Führen Sie ETL auf dem globalen Superstor_2016-Datensatz durch, der in csv-Dateien vorliegt, indem Sie ihn in Power BI importieren. Erstellen Sie ein interaktives Dashboard, um KPIs zu Verkäufen, verkauften Mengen, Liefertagen und zurückgesandten Produkten zu verfolgen, Verkäufe nach Segmenten und Märkten zu vergleichen, hochwertige Kunden und Trends auf Produktebene zu analysieren.
@@ -280,7 +286,8 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 
 
-# Projekt 7 - Skishop-Analyse_mit_Python (https://github.com/anandjain55/Skishop-Analyse_mit_Python)
+# Projekt 7 - Skishop-Analyse_mit_Python 
+(https://github.com/anandjain55/Skishop-Analyse_mit_Python)
 
 ## Geschäftsproblem und -kontext:
 Dieses Projekt besteht aus zwei Teilen. Der erste Teil ist die Datenvorbereitung und der zweite Teil die Analyse. Der Excel-Experte ist seit drei Monaten auf Skiern unterwegs und muss nun die Verkaufsdaten für den Schwarzen Freitag analysieren. In der beigefügten Excel-Arbeitsmappe werden Sie sehen, dass Daten für Steuern und Summen fehlen. Sie müssen diese Datenzeilen mit Python? ausfüllen.
@@ -301,7 +308,8 @@ Einige der Ziele in diesem Abschnitt sind die Definition einer Funktion, die Exc
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0009.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0010.jpg)
 
-# Projekt 8 - Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python (https://github.com/anandjain55/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python) 
+# Projekt 8 - Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python 
+(https://github.com/anandjain55/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python) 
 
 ## Geschäftsproblem und -kontext:
 Wenn Sie dies lesen, wurden Sie ausgewählt, um an einer geheimen Initiative mitzuwirken. Sie werden uns dabei helfen, einen Teil der Daten eines Unternehmens zu analysieren, das wir übernehmen wollen und das die Geschicke von Mega Mart erheblich verbessern könnte. 
