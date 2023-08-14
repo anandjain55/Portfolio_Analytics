@@ -1,4 +1,4 @@
-## Anand Jain - Data Analyst , Business Intelligence Analyst
+## Data Analyst,Business Intelligence Analyst
 
 ### Hinweis: 
 Dieses Portfolio und die zugehörigen GitHub-Repositories werden von mir (Anand Jain) erstellt. Die Daten auf dieser Website und allen Repositories sind durch die Datenschutzrichtlinie geschützt und die hier erstellten Dashboards sollten nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
