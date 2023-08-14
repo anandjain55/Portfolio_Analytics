@@ -48,7 +48,7 @@ Power BI -  Datenvisualisierung, DAX.
 
 
 # Projekt 2 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten
-[https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten]
+[](https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten)
 
 ## Geschäftsfall :
 
