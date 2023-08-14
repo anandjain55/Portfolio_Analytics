@@ -287,9 +287,7 @@ Im zweiten Teil geht es darum, durch Aggregation von Daten einige Schlüsselkenn
 
 Einige der Ziele in diesem Abschnitt sind die Definition einer Funktion, die Excel-Spalten summiert, die Nutzung eines Listenverständnisses, die Anwendung numerischer Funktionen zur Berechnung von KPIs, die Verwendung von Mengenoperationen, um eindeutige Elemente zu finden, die Erstellung eines Wörterbuchs mit verschachtelten Schleifen.
 
-
 ## Projektlösung Schritt für Schritt mit Beschreibung:
-
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) 
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0002.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0003.jpg)
@@ -300,11 +298,6 @@ Einige der Ziele in diesem Abschnitt sind die Definition einer Funktion, die Exc
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0008.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0009.jpg)
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0010.jpg)
-
-
-
-
-
 # Projekt 8 - Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python 
 
 ## Geschäftsproblem und -kontext:
@@ -344,7 +337,6 @@ Berechnen Sie:
 
 
 ### Projektlösung Schritt für Schritt mit Beschreibung:
-
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-01.jpg) 
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-02.jpg)
 ![](Bilder_Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python/Mega-Mart_Datenanalyse_mit_Numpy-und_Pandas_Python-03.jpg)
