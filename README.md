@@ -4,7 +4,7 @@
 Dieses Portfolio und die zugehörigen GitHub-Repositories werden von mir (Anand Jain) erstellt. Die Daten auf dieser Website und allen Repositories sind durch die Datenschutzrichtlinie geschützt und die hier erstellten Dashboards sollten nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
 
 # Projekt 1 - Datenanalyse der AdventureWorks Bike Company 
-[https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company]
+Github-Repository - [https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company]
 
 ## Geschäftsproblem :
 
@@ -48,7 +48,7 @@ Power BI -  Datenvisualisierung, DAX.
 
 
 # Projekt 2 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten
-[Github-Repository] (https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten)
+(Github-Repository) [https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten]
 
 ## Geschäftsfall :
 
