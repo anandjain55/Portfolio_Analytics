@@ -1,4 +1,4 @@
-## Anand Jain
+# Anand Jain
 
 # Datenanalyse-, Business-Analysten- und Business-Intelligence-Analyseprojekten
 
