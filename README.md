@@ -113,7 +113,7 @@ Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 
 
 
-# Projekt 3 – Persönliche Finanz-Tracker-Analyse 
+# Projekt 3 – Persönliche Finanz-Tracker Analyse 
 [https://github.com/anandjain55/Personliche_Finanz-Tracker_Analyse](https://github.com/anandjain55/Personliche_Finanz-Tracker_Analyse)
 
 ## Geschäftsproblem und Kontext
@@ -204,7 +204,7 @@ Power Query Editor, Datenvisualisierung (KPIs, Slicer, Diagramme und Schaubilder
 
 
 # Projekt 5 - Analyse Historischer Hoteldaten 
-[https://github.com/anandjain55/Analyse_historischer_Hoteldaten](https://github.com/anandjain55/Analyse_historischer_Hoteldaten)
+[https://github.com/anandjain55/Analyse_Historischer_Hoteldaten](https://github.com/anandjain55/Analyse_Historischer_Hoteldaten)
 
 ## Geschäftsproblem und Kontext:
 Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
