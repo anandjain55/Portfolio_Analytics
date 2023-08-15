@@ -4,8 +4,7 @@
 Dieses Portfolio und die zugehörigen GitHub-Repositories werden von mir (Anand Jain) erstellt. Die Daten auf dieser Website und allen Repositories sind durch die Datenschutzrichtlinie geschützt und die hier erstellten Dashboards sollten nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
 
 # Projekt 1 - Datenanalyse der AdventureWorks Bike Company 
-[https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company]
-(https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company)
+[https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company](https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company)
 
 ## Geschäftsproblem :
 
@@ -115,7 +114,7 @@ Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 
 
 # Projekt 3 – Persönliche Finanz-Tracker-Analyse 
-[https://github.com/anandjain55/Personlicher_Finanz-Tracker_Dashboard](https://github.com/anandjain55/Personlicher_Finanz-Tracker_Dashboard)
+[https://github.com/anandjain55/Personliche_Finanz-Tracker_Analyse](https://github.com/anandjain55/Personliche_Finanz-Tracker_Analyse)
 
 ## Geschäftsproblem und kontext
 Erstellung eines persönlichen Finanz-Trackers, der bei der Verwaltung und Kontrolle der finanziellen Ausgaben hilft. Das Ziel dieses Projekts ist es, schon in jungen Jahren finanzielle Kenntnisse zu vermitteln und die Analytik in das tägliche Leben einzubinden.
@@ -246,7 +245,7 @@ Power BI - Datenvisualisierung, DAX, Power Query-Editor.
 
 
 # Projekt 6 - Globale Superstore-Verkaufsdatenanalyse 
-[https://github.com/anandjain55/Global_Supertstore_Datenanalyse](https://github.com/anandjain55/Global_Supertstore_Datenanalyse)
+[https://github.com/anandjain55/Globale_Superstore_Verkaufsdatenanalyse](https://github.com/anandjain55/Globale_Superstore_Verkaufsdatenanalyse)
 
 ## Geschäftsproblem: 
 Führen Sie ETL auf dem globalen Superstor_2016-Datensatz durch, der in csv-Dateien vorliegt, indem Sie ihn in Power BI importieren. Erstellen Sie ein interaktives Dashboard, um KPIs zu Verkäufen, verkauften Mengen, Liefertagen und zurückgesandten Produkten zu verfolgen, Verkäufe nach Segmenten und Märkten zu vergleichen, hochwertige Kunden und Trends auf Produktebene zu analysieren.
