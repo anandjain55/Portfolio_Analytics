@@ -113,7 +113,7 @@ Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 
 
 
-# Projekt 3 – Persönliche Finanz-Tracker Analyse 
+# Projekt 3 - Persönliche Finanz-Tracker Analyse 
 [https://github.com/anandjain55/Personliche_Finanz-Tracker_Analyse](https://github.com/anandjain55/Personliche_Finanz-Tracker_Analyse)
 
 ## Geschäftsproblem und Kontext
