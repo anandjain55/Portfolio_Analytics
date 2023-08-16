@@ -339,4 +339,16 @@ Q.4) In welcher Region wurde die geringste Anzahl von Todesfällen registriert?
 F.5) Wie viele bestätigte Fälle, Todesfälle und wiedergefundene Fälle wurden bis zum 29. April 2020 aus Indien gemeldet?
 Q. 6-A ) Sortieren Sie die gesamten Daten nach der Anzahl der bestätigten Fälle in aufsteigender Reihenfolge.
 Q. 6-B ) Sortieren Sie die gesamten Daten nach der Anzahl der wieder aufgetretenen Fälle in absteigender Reihenfolge.
+## Projektlösung Schritt für Schritt mit Beschreibung:
+![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0001.jpg)
+![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0002.jpg)
+![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0003.jpg)
+![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0004.jpg)
+![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0005.jpg)
+![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0006.jpg)
+![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0007.jpg)
+![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0008.jpg)
+![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0009.jpg)
+![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0010.jpg)
+![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0011.jpg)
 
