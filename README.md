@@ -323,4 +323,20 @@ Einige der Ziele in diesem Abschnitt sind die Definition einer Funktion, die Exc
 ![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0010.jpg)
 
 
+# Project - 8  Arbeit an einem realen Projekt des COVID-19-Datensatzes mit Pandas, Matplotlib und Seaborn von Python. 
+
+## Geschäftsproblem und Kontext:
+
+Dieses Projekt basiert auf dem Covid-19-Datensatz.
+Die hier verwendeten Daten sind bis zum 29-Apr-2020 und haben Datensätze ab dem 29-Apr-2020.
+Diese Daten sind als CSV-Datei verfügbar, die von Kaggle heruntergeladen wurde.
+Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
+
+Q.1 ) Zeigen Sie die Anzahl der bestätigten, verstorbenen und wiedergefundenen Fälle in jeder Region.
+Q2) Entfernen Sie alle Datensätze, bei denen die Zahl der bestätigten Fälle unter 10 liegt.
+Q.3) In welcher Region wurde die höchste Anzahl an bestätigten Fällen verzeichnet?
+Q.4) In welcher Region wurde die geringste Anzahl von Todesfällen registriert?
+F.5) Wie viele bestätigte Fälle, Todesfälle und wiedergefundene Fälle wurden bis zum 29. April 2020 aus Indien gemeldet?
+Q. 6-A ) Sortieren Sie die gesamten Daten nach der Anzahl der bestätigten Fälle in aufsteigender Reihenfolge.
+Q. 6-B ) Sortieren Sie die gesamten Daten nach der Anzahl der wieder aufgetretenen Fälle in absteigender Reihenfolge.
 
