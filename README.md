@@ -6,53 +6,10 @@
 ### Hinweis: 
 Dieses Portfolio und die zugehörigen GitHub-Repositories werden von mir (Anand Jain) erstellt. Die Daten auf dieser Website und allen Repositories sind durch die Datenschutzrichtlinie geschützt und die hier erstellten Dashboards sollten nicht kopiert oder übertragen werden. Alle Regeln gelten gemäß der Datenschutzrichtlinie.
 
-# Projekt 1 - Datenanalyse der AdventureWorks Bike Company 
-[https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company](https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company)
-
-## Geschäftsproblem und Kontext:
-
-Entwickeln Sie eine Datenbank zur Analyse und Visualisierung von Hotelbuchungsdaten und erstellen Sie dann mit Power BI ein Dashboard, das Sie Ihren Stakeholdern präsentieren können. Das Dashboard sollte die Trends der Einnahmen, des durchschnittlichen Tagessatzes pro Nacht, des durchschnittlichen Rabatts und der benötigten Parkplätze zeigen. 
-
-Sie müssen die Frage beantworten, ob die Hoteleinnahmen und der durchschnittliche Tagessatz von Jahr zu Jahr steigen und ob wir die Größe unserer Parkplätze erhöhen sollten.
-
-## Datenquelle:
-Historische Hoteldaten von 2018-2020.
-
-## Wichtige Erkenntnisse:
-1. KPIs für Umsatz, durchschnittliche Tagesraten, Gesamtübernachtungen, durchschnittliche Rabatte und benötigte Parkplätze helfen, einen Überblick über die Hoteldaten zu erhalten.
-2. Datums-, Hotel- und Länderslicer helfen, die Daten nach Bedarf zu filtern und KPI's zu ändern.
-3. Ein Liniendiagramm hilft, die Umsatzentwicklung der beiden Hotels für einen bestimmten Zeitraum zu vergleichen.
-4. Die Matrix zeigt einen Überblick über die Umsatzdaten und die benötigten Parkplätze, was uns hilft, unser Geschäftsproblem in Bezug auf die Größe des Parkplatzes zu lösen. Die blau hervorgehobenen Zeilen zeigen die höchsten Werte an.
-
-## Ergebnis und Schlussfolgerung aus dem Dashboard:
-1. Der Hotelumsatz steigt von 2018 bis 2020. Der höchste Umsatz ist im Jahr 2019 von 2018 bis 2020 und sein Wert beträgt 26,63 Millionen Dollar für beide Hotels und alle Länder. Von beiden Hotels ist der Wert 2019 für das Stadthotel am höchsten und beträgt 7,19 Mio. USD für alle Länder.
-2. Da der Anteil der Parkplätze stagniert, haben wir nicht viele Anhaltspunkte, um zu entscheiden, ob wir einen Parkplatz bauen sollten oder nicht.
-3. Die Adr steigt von 2018-2020. Der höchste durchschnittliche Tagessatz ist im Jahr 2019 zwischen 2018 und 2020 und sein Wert beträgt 119,86 Millionen Dollar für beide Hotels und alle Länder. Für beide Hotels ist der durchschnittliche Tagessatz für das Stadthotel im Jahr 2020 mit 123,02 Mio. USD für alle Länder ebenfalls am höchsten.
-
-## Verwendete technische Tools: 
-Sql Server Management Studio, Power BI Desktop.
-
-## Verwendete Techniken/Fähigkeiten:
-Power BI -  Datenvisualisierung, DAX.
-
-###  Überblick über das Executive Dashboard 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Executive-Dashboard.jpg)
-
-###  Übersicht über das Dashboard auf Produktebene 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Produkt_Ebene-Dashboard.jpg)
-
-###  Übersicht über die Kundenebene_Dashboard
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kunden_Ebene-Dashboard.jpg)
-
-###  Übersicht über den Tooltip für die Kategorie 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kategorie_Tooltip.jpg)
-
-###  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen) 
-![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Bildmaterial_(Animierter_Balkenlauf).jpg)
 
 
 
-# Projekt 2 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten
+# Projekt 1 - Datamart-Erstellung und Analyse hierarchiebasierter Verkaufsdaten
 [https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten](https://github.com/anandjain55/Datamart_Erstellung_und_Analyse_hierarchiebasierter_Verkaufsdaten)
 
 ## Geschäftsproblem und Kontext:
@@ -120,7 +77,7 @@ Power BI - DAX, Datenmodellierung, Datenvisualisierung.
 
 
 
-# Projekt 3 - Persönliche Finanz-Tracker Analyse 
+# Projekt 2 - Persönliche Finanz-Tracker Analyse 
 [https://github.com/anandjain55/Personliche_Finanz-Tracker_Analyse](https://github.com/anandjain55/Personliche_Finanz-Tracker_Analyse)
 
 ## Geschäftsproblem und Kontext
@@ -166,6 +123,45 @@ Power BI- DAX, Datenvisualisierung.
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-3.jpg),
 ![](Bilder_Persönliche_Finanzen_Tracker_Dashboard/Tooltip-4.jpg)
 
+# Projekt 3 - Datenanalyse der AdventureWorks Bike Company 
+[https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company](https://github.com/anandjain55/Datenanalyse_der_AdventureWorks_Bike_Company)
+
+## Geschäftsproblem: 
+Sie wurden gerade als Business Intelligence-Analyst von AdventureWorks eingestellt, einem fiktiven globalen Produktionsunternehmen, das Fahrradausrüstung und -zubehör herstellt. Ihre Aufgabe ist es, das Managementteam dabei zu unterstützen, die KPIs wie Absatz, Umsatz, Gewinn und Rendite zu verfolgen, die Leistung zwischen den Regionen zu vergleichen, Trends auf Produktebene zu analysieren und wichtige Kunden zu identifizieren.
+Aber alles, was Ihnen zur Verfügung steht, ist ein Ordner mit rohen CSV-Dateien, die Informationen über Transaktionen und Retouren, Produkte, Kunden und Verkaufsgebiete enthalten.
+
+## Ziel erreicht: 
+Power BI Desktop verwendet, um diese Rohdaten zu verbinden und umzuwandeln, ein relationales Datenmodell erstellt, berechnete Spalten und Kennzahlen mit DAX erstellt und schließlich ein interaktives Dashboard entworfen, um die Daten zu visualisieren und zu analysieren.
+
+## Die wichtigsten Schritte im Projekt:
+1. Erstellung der Übersichtsansicht, die KPIs auf hoher Ebene (Umsatz, Gewinn, Aufträge, Rücklaufquote), ein Diagramm mit wöchentlichen Umsatztrends, coole interaktive Elemente wie Schieberegler zum Heranzoomen bestimmter Zeiträume, benutzerdefinierte Tooltipps und einen vollständig benutzerdefinierten Filterbereich enthält.
+2. Man kann in ein bestimmtes Produkt bohren, um zur Produkt-Detailansicht zu gelangen. Dort wird z. B. angezeigt, wie sich ein Produkt im Vergleich zu seinem monatlichen Auftrags-, Umsatz- oder Gewinnziel verhält.
+3. Ich habe Dinge wie Parameter für die Was-wäre-wenn-Analyse verwendet. In diesem Fall, wie wirkt sich eine Preisänderung auf eine Kennzahl wie den Gesamtgewinn aus.
+4. Ich habe Feldparameter erforscht, um diese Diagramme für die Endbenutzer interaktiver und dynamischer zu gestalten.
+5. Ich habe mich mit den Kartierungs- und Geowerkzeugen von Power BI beschäftigt und eine Ansicht auf Kundenebene erstellt, um die Leistung auf der Ebene des einzelnen Kunden zu untersuchen und verschiedene Kundenprofile und -segmente aufzuschlüsseln.
+6. Der gesamte Bericht wurde von Grund auf neu erstellt, mit nichts anderem als einem Ordner mit CSV-Rohdateien.
+
+
+## Verwendete technische Tools: 
+Sql Server Management Studio, Power BI Desktop.
+
+## Verwendete Techniken/Fähigkeiten:
+Power BI -  Datenvisualisierung, DAX.
+
+###  Überblick über das Executive Dashboard 
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Executive-Dashboard.jpg)
+
+###  Übersicht über das Dashboard auf Produktebene 
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Produkt_Ebene-Dashboard.jpg)
+
+###  Übersicht über die Kundenebene_Dashboard
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kunden_Ebene-Dashboard.jpg)
+
+###  Übersicht über den Tooltip für die Kategorie 
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Kategorie_Tooltip.jpg)
+
+###  Übersicht über benutzerdefinierte visuelle Elemente (animiertes Barrennen) 
+![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Benutzerdefiniertes_Bildmaterial_(Animierter_Balkenlauf).jpg)
 
 
 # Projekt 4 - Humanressourcen Datenanalyse 
