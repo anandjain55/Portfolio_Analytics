@@ -150,6 +150,7 @@ Excel, Power BI Desktop.
 
 ## Verwendete Techniken/Fähigkeiten:
 Power BI -  Datenvisualisierung, DAX.
+
 Power Query Editor - Laden und Bereinigen von Daten 
 
 ###  Überblick über das Executive Dashboard 
