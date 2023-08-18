@@ -140,7 +140,7 @@ Power BI Desktop verwendet, um diese Rohdaten zu verbinden und umzuwandeln, ein 
 4. Die untersuchten Feldparameter machen diese Diagramme für die Endbenutzer interaktiver und dynamischer.
 5. Eine Ansicht auf Kundenebene hilft dabei, die Leistung auf der Ebene des einzelnen Kunden zu untersuchen und verschiedene Kundenprofile und -segmente aufzuschlüsseln.
 
-# Ergebnis und Schlussfolgerung aus dem Dashboard:
+## Ergebnis und Schlussfolgerung aus dem Dashboard:
 1.	Von Dezember 2020 bis Juni 2022 stieg der Umsatz mit einigen Ausnahmen linear an.  Die Gesamteinnahmen betrugen $ 24,9 Mio., während der Gewinn $ 10,5 Mio. betrug. In diesem Zeitraum wurden 25,2 K Bestellungen aufgegeben und die Gesamtrücklaufquote betrug 2,2 %.
 2.	Im Zeitraum von Januar 2020 bis Juni 2022 bestellten die Kunden am meisten Reifen und Schläuche, während das Produkt, das am häufigsten zurückgegeben wurde, Shorts waren.
 3.	Von Januar 2020 bis Juni 2022 war Herr Maurice Shan der Kunde mit dem höchsten Umsatz mit einem Gesamtumsatz von 12.000 $ und 6 Bestellungen. Beruflich gesehen hatten die Fachleute die meisten Aufträge, während die Gruppe der Führungskräfte die geringste Anzahl von Aufträgen hatte. Die Gesamtzahl der Kunden stieg mit einigen Ausnahmen allmählich an, während der Umsatz pro Kunde mit einigen Ausnahmen allmählich zurückging.
