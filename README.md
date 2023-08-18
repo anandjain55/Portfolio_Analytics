@@ -133,14 +133,17 @@ Aber alles, was Ihnen zur Verfügung steht, ist ein Ordner mit rohen CSV-Dateien
 ## Ziel erreicht: 
 Power BI Desktop verwendet, um diese Rohdaten zu verbinden und umzuwandeln, ein relationales Datenmodell erstellt, berechnete Spalten und Kennzahlen mit DAX erstellt und schließlich ein interaktives Dashboard entworfen, um die Daten zu visualisieren und zu analysieren.
 
-## Die wichtigsten Schritte im Projekt:
-1. Erstellung der Übersichtsansicht, die KPIs auf hoher Ebene (Umsatz, Gewinn, Aufträge, Rücklaufquote), ein Diagramm mit wöchentlichen Umsatztrends, coole interaktive Elemente wie Schieberegler zum Heranzoomen bestimmter Zeiträume, benutzerdefinierte Tooltipps und einen vollständig benutzerdefinierten Filterbereich enthält.
+## Abgeleitete Schlüsselerkenntnisse:
+1. Die Übersichtsansicht enthält hochrangige KPIs (Umsatz, Gewinn, Aufträge, Rücklaufquote), ein wöchentliches Umsatztrenddiagramm, coole interaktive Elemente wie Schieberegler zum Heranzoomen bestimmter Zeiträume, benutzerdefinierte Tooltipps und einen vollständig benutzerdefinierten Filterbereich.
 2. Man kann in ein bestimmtes Produkt bohren, um zur Produkt-Detailansicht zu gelangen. Dort wird z. B. angezeigt, wie sich ein Produkt im Vergleich zu seinem monatlichen Auftrags-, Umsatz- oder Gewinnziel verhält.
-3. Ich habe Dinge wie Parameter für die Was-wäre-wenn-Analyse verwendet. In diesem Fall, wie wirkt sich eine Preisänderung auf eine Kennzahl wie den Gesamtgewinn aus.
-4. Ich habe Feldparameter erforscht, um diese Diagramme für die Endbenutzer interaktiver und dynamischer zu gestalten.
-5. Ich habe mich mit den Kartierungs- und Geowerkzeugen von Power BI beschäftigt und eine Ansicht auf Kundenebene erstellt, um die Leistung auf der Ebene des einzelnen Kunden zu untersuchen und verschiedene Kundenprofile und -segmente aufzuschlüsseln.
-6. Der gesamte Bericht wurde von Grund auf neu erstellt, mit nichts anderem als einem Ordner mit CSV-Rohdateien.
+3. Die Verwendung von Parametern für die Was-wäre-wenn-Analyse zeigt, wie sich eine Preisänderung auf eine Kennzahl wie den Gesamtgewinn auswirkt.
+4. Die untersuchten Feldparameter machen diese Diagramme für die Endbenutzer interaktiver und dynamischer.
+5. Eine Ansicht auf Kundenebene hilft dabei, die Leistung auf der Ebene des einzelnen Kunden zu untersuchen und verschiedene Kundenprofile und -segmente aufzuschlüsseln.
 
+# Ergebnis und Schlussfolgerung aus dem Dashboard:
+1.	Von Dezember 2020 bis Juni 2022 stieg der Umsatz mit einigen Ausnahmen linear an.  Die Gesamteinnahmen betrugen $ 24,9 Mio., während der Gewinn $ 10,5 Mio. betrug. In diesem Zeitraum wurden 25,2 K Bestellungen aufgegeben und die Gesamtrücklaufquote betrug 2,2 %.
+2.	Im Zeitraum von Januar 2020 bis Juni 2022 bestellten die Kunden am meisten Reifen und Schläuche, während das Produkt, das am häufigsten zurückgegeben wurde, Shorts waren.
+3.	Von Januar 2020 bis Juni 2022 war Herr Maurice Shan der Kunde mit dem höchsten Umsatz mit einem Gesamtumsatz von 12.000 $ und 6 Bestellungen. Beruflich gesehen hatten die Fachleute die meisten Aufträge, während die Gruppe der Führungskräfte die geringste Anzahl von Aufträgen hatte. Die Gesamtzahl der Kunden stieg mit einigen Ausnahmen allmählich an, während der Umsatz pro Kunde mit einigen Ausnahmen allmählich zurückging.
 
 ## Verwendete technische Tools: 
 Sql Server Management Studio, Power BI Desktop.
