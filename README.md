@@ -146,10 +146,11 @@ Power BI Desktop verwendet, um diese Rohdaten zu verbinden und umzuwandeln, ein 
 3.	Von Januar 2020 bis Juni 2022 war Herr Maurice Shan der Kunde mit dem höchsten Umsatz mit einem Gesamtumsatz von 12.000 $ und 6 Bestellungen. Beruflich gesehen hatten die Fachleute die meisten Aufträge, während die Gruppe der Führungskräfte die geringste Anzahl von Aufträgen hatte. Die Gesamtzahl der Kunden stieg mit einigen Ausnahmen allmählich an, während der Umsatz pro Kunde mit einigen Ausnahmen allmählich zurückging.
 
 ## Verwendete technische Tools: 
-Sql Server Management Studio, Power BI Desktop.
+Excel, Power BI Desktop.
 
 ## Verwendete Techniken/Fähigkeiten:
 Power BI -  Datenvisualisierung, DAX.
+Power Query Editor - Laden und Bereinigen von Daten 
 
 ###  Überblick über das Executive Dashboard 
 ![](Bilder_des_AdventureWorks_Bike_Company_Berichts/Executive-Dashboard.jpg)
