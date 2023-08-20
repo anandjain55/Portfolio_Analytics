@@ -310,13 +310,19 @@ Die hier verwendeten Daten sind bis zum 29-Apr-2020 und haben Datensätze ab dem
 Diese Daten sind als CSV-Datei verfügbar, die von Kaggle heruntergeladen wurde.
 Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
 
-Q.1 ) Zeigen Sie die Anzahl der bestätigten, verstorbenen und wiedergefundenen Fälle in jeder Region.
-Q2) Entfernen Sie alle Datensätze, bei denen die Zahl der bestätigten Fälle unter 10 liegt.
-Q.3) In welcher Region wurde die höchste Anzahl an bestätigten Fällen verzeichnet?
-Q.4) In welcher Region wurde die geringste Anzahl von Todesfällen registriert?
-F.5) Wie viele bestätigte Fälle, Todesfälle und wiedergefundene Fälle wurden bis zum 29. April 2020 aus Indien gemeldet?
-Q. 6-A ) Sortieren Sie die gesamten Daten nach der Anzahl der bestätigten Fälle in aufsteigender Reihenfolge.
-Q. 6-B ) Sortieren Sie die gesamten Daten nach der Anzahl der wieder aufgetretenen Fälle in absteigender Reihenfolge.
+1. Zeigen Sie die Anzahl der bestätigten, verstorbenen und wiedergefundenen Fälle in jeder Region.
+
+2. Entfernen Sie alle Datensätze, bei denen die Zahl der bestätigten Fälle unter 10 liegt.
+
+3. In welcher Region wurde die höchste Anzahl an bestätigten Fällen verzeichnet?
+
+4. In welcher Region wurde die geringste Anzahl von Todesfällen registriert?
+
+5. Wie viele bestätigte Fälle, Todesfälle und wiedergefundene Fälle wurden bis zum 29. April 2020 aus Indien gemeldet?
+
+6-A Sortieren Sie die gesamten Daten nach der Anzahl der bestätigten Fälle in aufsteigender Reihenfolge.
+
+6-B Sortieren Sie die gesamten Daten nach der Anzahl der wieder aufgetretenen Fälle in absteigender Reihenfolge.
 ## Projektlösung Schritt für Schritt mit Beschreibung:
 ![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0001.jpg)
 ![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0002.jpg)
@@ -343,7 +349,7 @@ Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
 
 2. In welchem Jahr wurden die meisten TV-Shows und Filme veröffentlicht? Mit Balkendiagramm zeigen.
 
-3 Wie viele Filme und Fernsehsendungen sind im Datensatz enthalten? Mit Balkendiagramm anzeigen.
+3. Wie viele Filme und Fernsehsendungen sind im Datensatz enthalten? Mit Balkendiagramm anzeigen.
 
 4. Zeigen Sie alle Filme, die im Jahr 2000 veröffentlicht wurden.
 
@@ -351,7 +357,7 @@ Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
 
 6. Zeige die Top 10 Regisseure, die die meisten TV-Shows und Filme auf Netflix veröffentlicht haben.
 
-7. Zeige alle Datensätze, bei denen "Kategorie ist Film und Typ ist Komödien" oder "Land ist Vereinigtes Königreich".
+7. Zeige alle Datensätze, bei denen "Kategorie ist Film und Typ ist Komödien" oder "Land ist Vereinigtes   Königreich".
 
 8. In wie vielen Filmen/Serien war Tom Cruise zu sehen?
 
@@ -367,7 +373,7 @@ Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
 
 12. Wie können wir den Datensatz nach Jahr sortieren?
 
-Q.13. Finden Sie alle Instanzen, in denen : 
+13. Finden Sie alle Instanzen, in denen : 
 Kategorie ist 'Film' und Typ ist 'Dramen'
 oder
 Kategorie ist 'TV Show' und Typ ist 'Kids' TV'.
