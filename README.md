@@ -375,8 +375,7 @@ Kategorie ist 'TV Show' und Typ ist 'Kids' TV'.
 
 
 ## Projektlösung Schritt für Schritt mit Beschreibung:
-![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0001)
-![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0002)
+![](Bilder-Netflix_Datensatz_Projekt_mit_Python/Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0001) 
 ![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0003)
 ![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0004)
 ![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0005)
