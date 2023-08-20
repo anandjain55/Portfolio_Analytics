@@ -320,9 +320,9 @@ Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
 
 5. Wie viele bestätigte Fälle, Todesfälle und wiedergefundene Fälle wurden bis zum 29. April 2020 aus Indien gemeldet?
 
-6-A Sortieren Sie die gesamten Daten nach der Anzahl der bestätigten Fälle in aufsteigender Reihenfolge.
+6-A. Sortieren Sie die gesamten Daten nach der Anzahl der bestätigten Fälle in aufsteigender Reihenfolge.
 
-6-B Sortieren Sie die gesamten Daten nach der Anzahl der wieder aufgetretenen Fälle in absteigender Reihenfolge.
+6-B. Sortieren Sie die gesamten Daten nach der Anzahl der wieder aufgetretenen Fälle in absteigender Reihenfolge.
 ## Projektlösung Schritt für Schritt mit Beschreibung:
 ![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0001.jpg)
 ![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0002.jpg)
