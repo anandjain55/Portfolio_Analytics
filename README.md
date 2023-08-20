@@ -363,9 +363,9 @@ Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
 
 9. Was sind die verschiedenen von Netflix definierten Bewertungen?
 
-9.1. Wie viele Filme haben in Kanada die Einstufung "TV-14" erhalten?
+ 9.1. Wie viele Filme haben in Kanada die Einstufung "TV-14" erhalten?
 
-9.2. Welche Fernsehsendungen haben nach dem Jahr 2018 die Einstufung "R" erhalten?
+ 9.2. Welche Fernsehsendungen haben nach dem Jahr 2018 die Einstufung "R" erhalten?
 
 10. Was ist die maximale Dauer eines Films/einer Sendung auf Netflix?
 
