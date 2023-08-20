@@ -359,21 +359,19 @@ Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
 
 7. Zeige alle Datensätze, bei denen "Kategorie ist Film und Typ ist Komödien" oder "Land ist Vereinigtes   Königreich".
 
-8. In wie vielen Filmen/Serien war Tom Cruise zu sehen?
+8. Was sind die verschiedenen von Netflix definierten Bewertungen?
 
-9. Was sind die verschiedenen von Netflix definierten Bewertungen?
+8-A. Wie viele Filme haben in Kanada die Einstufung "TV-14" erhalten?
 
-9-1. Wie viele Filme haben in Kanada die Einstufung "TV-14" erhalten?
+8-B. Welche Fernsehsendungen haben nach dem Jahr 2018 die Einstufung "R" erhalten?
 
-9-2. Welche Fernsehsendungen haben nach dem Jahr 2018 die Einstufung "R" erhalten?
+9. Was ist die maximale Dauer eines Films/einer Sendung auf Netflix?
 
-10. Was ist die maximale Dauer eines Films/einer Sendung auf Netflix?
+10. Welches Land hat die höchste Anzahl an Fernsehsendungen?
 
-11. Welches Land hat die höchste Anzahl an Fernsehsendungen?
+11. Wie können wir den Datensatz nach Jahr sortieren?
 
-12. Wie können wir den Datensatz nach Jahr sortieren?
-
-13. Finden Sie alle Instanzen, in denen : 
+12. Finden Sie alle Instanzen, in denen : 
 Kategorie ist 'Film' und Typ ist 'Dramen'
 oder
 Kategorie ist 'TV Show' und Typ ist 'Kids' TV'.
