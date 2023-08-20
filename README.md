@@ -331,7 +331,49 @@ Q. 6-B ) Sortieren Sie die gesamten Daten nach der Anzahl der wieder aufgetreten
 ![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0011.jpg)
 
 
-# Project - 8  Netflix-Datensatz-Projekt mit Python-Bibliotheken 
+# Project - 8  Netflix-Datensatz-Projekt mit Python-Bibliotheken (https://github.com/anandjain55/Netflix-Datensatz-Projekt_mit_Python-Bibliotheken)
+
+## Geschäftsproblem und Kontext:
+
+Dieser Netflix-Datensatz enthält Informationen über die bis 2021 auf Netflix verfügbaren Fernsehsendungen und Filme.
+Dieser Datensatz wurde von Flixable gesammelt, einer Netflix-Suchmaschine eines Drittanbieters, und ist auf der Kaggle-Website kostenlos verfügbar.
+
+Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
+1. Wie lautet die Seriennummer von "House of Cards", und wer ist der Regisseur dieser Serie?
+
+2. In welchem Jahr wurden die meisten TV-Shows und Filme veröffentlicht? Mit Balkendiagramm zeigen.
+
+3 Wie viele Filme und Fernsehsendungen sind im Datensatz enthalten? Mit Balkendiagramm anzeigen.
+
+4. Zeigen Sie alle Filme, die im Jahr 2000 veröffentlicht wurden.
+
+5. Zeigen Sie nur die Titel aller TV-Sendungen, die nur in Indien veröffentlicht wurden.
+
+6. Zeige die Top 10 Regisseure, die die meisten TV-Shows und Filme auf Netflix veröffentlicht haben.
+
+7. Zeige alle Datensätze, bei denen "Kategorie ist Film und Typ ist Komödien" oder "Land ist Vereinigtes Königreich".
+
+8. In wie vielen Filmen/Serien war Tom Cruise zu sehen?
+
+9. Was sind die verschiedenen von Netflix definierten Bewertungen?
+
+9.1. Wie viele Filme haben in Kanada die Einstufung "TV-14" erhalten?
+
+9.2. Welche Fernsehsendungen haben nach dem Jahr 2018 die Einstufung "R" erhalten?
+
+10. Was ist die maximale Dauer eines Films/einer Sendung auf Netflix?
+
+11. Welches Land hat die höchste Anzahl an Fernsehsendungen?
+
+12. Wie können wir den Datensatz nach Jahr sortieren?
+
+Q.13. Finden Sie alle Instanzen, in denen : 
+Kategorie ist 'Film' und Typ ist 'Dramen'
+oder
+Kategorie ist 'TV Show' und Typ ist 'Kids' TV'.
+
+
+
 ## Projektlösung Schritt für Schritt mit Beschreibung:
 ![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0001)
 ![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0002)
