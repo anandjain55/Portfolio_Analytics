@@ -301,30 +301,7 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 
 
 
-# Projekt 7 - Skishop-Analyse_mit_Python 
-[https://github.com/anandjain55/Skishop-Analyse_mit_Python](https://github.com/anandjain55/Skishop-Analyse_mit_Python)
-
-## Geschäftsproblem und Kontext:
-Dieses Projekt besteht aus zwei Teilen. Der erste Teil ist die Datenvorbereitung und der zweite Teil die Analyse. Der Excel-Experte ist seit drei Monaten auf Skiern unterwegs und muss nun die Verkaufsdaten für den Schwarzen Freitag analysieren. In der beigefügten Excel-Arbeitsmappe werden Sie sehen, dass Daten für Steuern und Summen fehlen. Sie müssen diese Datenzeilen mit Python? ausfüllen.
-
-Im zweiten Teil geht es darum, durch Aggregation von Daten einige Schlüsselkennzahlen zu berechnen, die sehr hilfreich sind, um zu ermitteln, wie gut die Leistung während des Black Friday war.
-
-Einige der Ziele in diesem Abschnitt sind die Definition einer Funktion, die Excel-Spalten summiert, die Nutzung eines Listenverständnisses, die Anwendung numerischer Funktionen zur Berechnung von KPIs, die Verwendung von Mengenoperationen, um eindeutige Elemente zu finden, die Erstellung eines Wörterbuchs mit verschachtelten Schleifen.
-
-## Projektlösung Schritt für Schritt mit Beschreibung:
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) 
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0002.jpg)
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0003.jpg)
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0004.jpg)
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0005.jpg)
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0006.jpg)
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0007.jpg)
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0008.jpg)
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0009.jpg)
-![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0010.jpg)
-
-
-# Project - 8  Arbeit an einem realen Projekt des COVID-19-Datensatzes mit Pandas, Matplotlib und Seaborn von Python. 
+# Project - 7  Arbeit an einem realen Projekt des COVID-19-Datensatzes mit Pandas, Matplotlib und Seaborn von Python. 
 
 ## Geschäftsproblem und Kontext:
 
@@ -353,3 +330,47 @@ Q. 6-B ) Sortieren Sie die gesamten Daten nach der Anzahl der wieder aufgetreten
 ![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0010.jpg)
 ![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0011.jpg)
 
+
+# Project - 8  Netflix-Datensatz-Projekt mit Python-Bibliotheken 
+## Projektlösung Schritt für Schritt mit Beschreibung:
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0001)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0002)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0003)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0004)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0005)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0006)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0007)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0008)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0009)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0010)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0011)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0012)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0013)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0014)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0015)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0016)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0017)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0018)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0019)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0020)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0021)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0022)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0023)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0024)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0025)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0026)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0027)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0028)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0029)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0030)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0031)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0032)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0033)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0034)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0035)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0036)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0037)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0038)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0039)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0040)
+![](Netflix-Datensatz_Projekt_mit_Python-Bibliotheken_page-0041)
