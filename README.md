@@ -26,14 +26,6 @@ Sie sollten KPI für den Verkauf verfolgen, kreative Diagramme erstellen, die di
 5. Power BI Dashboard mit Executive Dashboard, Customer und Product Level Dashboards wurde mit Hilfe von Views der Core Layer Daten erstellt.
 
 ## Die wichtigsten Erkenntnisse :
-1.	Der Umsatz für das ganze Jahr beträgt 547 Mio. 
-2.	Geshirrspüler hat höchsten Umsatz von 2019-2023.
-3.	Metra hat höchsten Umsatz von 2019-2023.
-4.	Kunde Corporate Express Deutschland hat höchsten umsatz von 547 M von 2019-2023.
-5.	VL- Gebiet Müller ist der vertiebsleiter mit dem höchsten umsatz für alle Jahre.
-6.	Donut Chart für UmsatzPlan vers umstzplan by Vertiebsweg zeigt, dass Kaüfhauser den höchsten umsatz von 2019-2023 hat.
-
-## Ergebnis und Schlussfolgerung aus dem Dashboard :
 1.	Umsatzdaten für alle Produkthierarchien aus den Jahren 2019 bis 2023 und umsatzplan Daten von 2021-2023
 2.	Umsatz_Plan Karte zeigt den prognostizierten Umsatz für das ausgewählte Jahr von 2021-2023. Wir können den aktuellen und den vorhergesagten Umsatz aus beiden Karten vergleichen.
 3.	Wir können den Monats- und Jahres-Slicer mit anderen Karten kombinieren, um das Produkt und den Kunden mit dem höchsten Verkaufswert pro Jahr und Monat zu filtern 
@@ -42,6 +34,14 @@ Sie sollten KPI für den Verkauf verfolgen, kreative Diagramme erstellen, die di
 6.	Anhand des Guage-Diagramms können wir die Differenz zwischen Budget und tatsächlichem Verkaufswert für einen bestimmten Kunden ermitteln.
 7.	Das Schaubild zeigt den Minimalwert als 0 und den Maximalwert als das Doppelte des Umsatzes, wobei der Abrufwert der tatsächliche Umsatz von 2019-2023 und der Zielwert der Budget-Umsatz (umsatz_plan) von 2021-2023 ist.
 8.	Das Ausblenden des Slicer-Panels enthält den Vertriebsweg-Slicer, der hilft, die Umsatzwerte von Kunden und Produkten zu filtern. 
+
+## Ergebnis und Schlussfolgerung aus dem Dashboard :
+1.	Der Umsatz für das ganze Jahr beträgt 547 Mio. 
+2.	Geshirrspüler hat höchsten Umsatz von 2019-2023.
+3.	Metra hat höchsten Umsatz von 2019-2023.
+4.	Kunde Corporate Express Deutschland hat höchsten umsatz von 547 M von 2019-2023.
+5.	VL- Gebiet Müller ist der vertiebsleiter mit dem höchsten umsatz für alle Jahre.
+6.	Donut Chart für UmsatzPlan vers umstzplan by Vertiebsweg zeigt, dass Kaüfhauser den höchsten umsatz von 2019-2023 hat.
 
 ### Icons und Logos :
 Beschreibende Icons werden verwendet, um von einer Seite zur anderen zu wechseln, wie z.B. Produkt, Kunde, Karte und exec Dashboard. 
