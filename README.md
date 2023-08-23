@@ -40,7 +40,7 @@ Sie sollten KPI für den Verkauf verfolgen, kreative Diagramme erstellen, die di
 2.	Geshirrspüler hat höchsten Umsatz von 2019-2023.
 3.	Metra hat höchsten Umsatz von 2019-2023.
 4.	Kunde Corporate Express Deutschland hat höchsten umsatz von 547 M von 2019-2023.
-5.	VL- Gebiet Müller ist der vertiebsleiter mit dem höchsten umsatz für alle Jahre.
+5.	VL- Gebiet Müller ist der vertriebsleiter mit dem höchsten umsatz für alle Jahre.
 6.	Donut Chart für UmsatzPlan vers umstzplan by Vertiebsweg zeigt, dass Kaüfhauser den höchsten umsatz von 2019-2023 hat.
 
 ### Icons und Logos :
