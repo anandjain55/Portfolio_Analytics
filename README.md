@@ -257,8 +257,6 @@ Power BI - Datenvisualisierung, DAX, Power Query-Editor.
 ![](Historische_Hoteldaten-Dashboard.jpg)
 
 
-
-
 # Projekt 6 - Globale Superstore-Verkaufsdatenanalyse 
 [https://github.com/anandjain55/Globale_Superstore_Verkaufsdatenanalyse](https://github.com/anandjain55/Globale_Superstore_Verkaufsdatenanalyse)
 
@@ -300,8 +298,30 @@ Power BI - Datenvisualisierung, DAX, Power Query Editor.
 ![](Globales_Superstore_Verkaufs-Dashboard.jpg)
 
 
+# Projekt 7 - Skishop-Analyse_mit_Python 
+[https://github.com/anandjain55/Skishop-Analyse_mit_Python](https://github.com/anandjain55/Skishop-Analyse_mit_Python)
 
-# Project - 7  Arbeit an einem realen Projekt des COVID-19-Datensatzes mit Pandas, Matplotlib und Seaborn von Python. 
+## Geschäftsproblem und Kontext:
+Dieses Projekt besteht aus zwei Teilen. Der erste Teil ist die Datenvorbereitung und der zweite Teil die Ana-lyse. Der Excel-Experte ist seit drei Monaten auf Skiern unterwegs und muss nun die Verkaufsdaten für den Schwarzen Freitag analysieren. In der beigefügten Excel-Arbeitsmappe werden Sie sehen, dass Daten für Steuern und Summen fehlen. Sie müssen diese Datenzeilen mit Python? ausfüllen.
+
+Im zweiten Teil geht es darum, durch Aggregation von Daten einige Schlüsselkennzahlen zu berechnen, die sehr hilfreich sind, um zu ermitteln, wie gut die Leistung während des Black Friday war.
+
+Einige der Ziele in diesem Abschnitt sind die Definition einer Funktion, die Excel-Spalten summiert, die Nutzung eines Listenverständnisses, die Anwendung numerischer Funktionen zur Berechnung von KPIs, die Verwendung von Mengenoperationen, um eindeutige Elemente zu finden, die Erstellung eines Wörterbuchs mit verschachtelten Schleifen.
+
+## Projektlösung Schritt für Schritt mit Beschreibung:
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0001.jpg) 
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0002.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0003.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0004.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0005.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0006.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0007.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0008.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0009.jpg)
+![](Bilder_der_Skishop-Analyse_mit_Python/Skishop-Analyse_mit_Python_page-0010.jpg)
+
+
+# Project - 8  Arbeit an einem realen Projekt des COVID-19-Datensatzes mit Pandas, Matplotlib und Seaborn von Python. 
 
 ## Geschäftsproblem und Kontext:
 
@@ -323,6 +343,7 @@ Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
 6-A. Sortieren Sie die gesamten Daten nach der Anzahl der bestätigten Fälle in aufsteigender Reihenfolge.
 
 6-B. Sortieren Sie die gesamten Daten nach der Anzahl der wieder aufgetretenen Fälle in absteigender Reihenfolge.
+
 ## Projektlösung Schritt für Schritt mit Beschreibung:
 ![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0001.jpg)
 ![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0002.jpg)
@@ -337,7 +358,7 @@ Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
 ![](Bilder_COVID-19_Datensatz_Analyse/COVID-19_Datensatz_Analyse_page-0011.jpg)
 
 
-# Project - 8  Netflix-Datensatz-Projekt mit Python-Bibliotheken (https://github.com/anandjain55/Netflix-Datensatz-Projekt_mit_Python-Bibliotheken)
+# Project - 9  Netflix-Datensatz-Projekt mit Python-Bibliotheken (https://github.com/anandjain55/Netflix-Datensatz-Projekt_mit_Python-Bibliotheken)
 
 ## Geschäftsproblem und Kontext:
 
@@ -375,7 +396,6 @@ Die Daten müssen analysiert werden, um die folgenden Fragen zu beantworten:
 Kategorie ist 'Film' und Typ ist 'Dramen'
 oder
 Kategorie ist 'TV Show' und Typ ist 'Kids' TV'.
-
 
 
 ## Projektlösung Schritt für Schritt mit Beschreibung:
